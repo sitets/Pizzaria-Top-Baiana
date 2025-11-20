@@ -64,10 +64,11 @@
                 
                 <div class="category-section">
                     <h3 class="cat-title"><i class="fas fa-pizza-slice"></i> Pizzas Tradicionais</h3>
-                    <div class="menu-grid">
+                    <div class="menu-grid" id="grid-pizzas">
+                        
                         <div class="item-card" data-id="1" data-name="Pizza Calabresa" data-price="60.00">
                             <div class="card-img">
-                                <i class="fas fa-pizza-slice"></i>
+                                <img src="calabresa.jpg" alt="Pizza Calabresa">
                             </div>
                             <div class="card-details">
                                 <h4>Calabresa</h4>
@@ -78,9 +79,10 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="item-card" data-id="2" data-name="Frango c/ Catupiry" data-price="60.00">
                             <div class="card-img">
-                                <i class="fas fa-pizza-slice"></i>
+                                <img src="frango.jpg" alt="Frango com Catupiry">
                             </div>
                             <div class="card-details">
                                 <h4>Frango c/ Catupiry</h4>
@@ -91,9 +93,10 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="item-card" data-id="3" data-name="Pizza Arrumadinho" data-price="60.00">
                             <div class="card-img">
-                                <i class="fas fa-utensils"></i>
+                                <img src="arrumadinho.jpg" alt="Pizza Arrumadinho">
                             </div>
                             <div class="card-details">
                                 <h4>Arrumadinho</h4>
@@ -104,10 +107,9 @@
                                 </div>
                             </div>
                         </div>
+
                          <div class="item-card" data-id="4" data-name="Pizza Top Baiana" data-price="60.00">
-                            <div class="card-img">
-                                <i class="fas fa-star"></i>
-                            </div>
+                            <div class="card-img"><i class="fas fa-star"></i></div>
                             <div class="card-details">
                                 <h4>Top Baiana</h4>
                                 <p>A especial da casa: Tudo que você tem direito.</p>
@@ -117,6 +119,68 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="item-card" data-id="9" data-name="Portuguesa" data-price="65.00">
+                            <div class="card-img"><i class="fas fa-egg"></i></div>
+                            <div class="card-details">
+                                <h4>Portuguesa</h4>
+                                <p>Presunto, ovos, cebola, ervilha e mussarela.</p>
+                                <div class="card-footer">
+                                    <span class="price">R$ 65,00</span>
+                                    <button class="add-btn">Adicionar</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item-card" data-id="10" data-name="Quatro Queijos" data-price="68.00">
+                            <div class="card-img"><i class="fas fa-cheese"></i></div>
+                            <div class="card-details">
+                                <h4>Quatro Queijos</h4>
+                                <p>Mussarela, provolone, parmesão e gorgonzola.</p>
+                                <div class="card-footer">
+                                    <span class="price">R$ 68,00</span>
+                                    <button class="add-btn">Adicionar</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item-card" data-id="11" data-name="Marguerita" data-price="60.00">
+                            <div class="card-img"><i class="fas fa-leaf"></i></div>
+                            <div class="card-details">
+                                <h4>Marguerita</h4>
+                                <p>Mussarela, rodelas de tomate e manjericão fresco.</p>
+                                <div class="card-footer">
+                                    <span class="price">R$ 60,00</span>
+                                    <button class="add-btn">Adicionar</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item-card" data-id="12" data-name="Bacon com Milho" data-price="62.00">
+                            <div class="card-img"><i class="fas fa-bacon"></i></div>
+                            <div class="card-details">
+                                <h4>Bacon com Milho</h4>
+                                <p>Mussarela, bacon crocante em cubos e milho.</p>
+                                <div class="card-footer">
+                                    <span class="price">R$ 62,00</span>
+                                    <button class="add-btn">Adicionar</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item-card" data-id="77" data-name="Teste" data-price="100.00">
+                            <div class="card-img">
+                                <i class="fas fa-pizza-slice"></i> 
+                            </div>
+                            <div class="card-details">
+                                <h4>Teste</h4> <p>INGREDIENTES_AQUI</p>
+                                <div class="card-footer">
+                                    <span class="price">R$ 100,00</span>
+                                    <button class="add-btn">Adicionar</button>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
@@ -264,7 +328,7 @@
 
                     <div class="form-group" id="troco-div" style="display:none;">
                         <label>Troco para quanto?</label>
-                       <input type="number" id="troco-input" placeholder="Ex: 50" 
+                        <input type="number" id="troco-input" placeholder="Ex: 50" 
        oninput="if(this.value.length > 3) this.value = this.value.slice(0, 3);">
                     </div>
 
