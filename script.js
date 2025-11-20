@@ -1,34 +1,30 @@
-// --- 1. DADOS (Cardápio Completo) ---
+// --- 1. DADOS (Cardápio Completo com as Novas Pizzas) ---
 const menuPadrao = [
     // --- PIZZAS TRADICIONAIS ---
     { id: 1, name: "Calabresa", price: 60.00, category: "pizza", desc: "Mussarela, calabresa, cebola e orégano.", img: "https://img.freepik.com/fotos-gratis/pizza-fresca-com-cogumelos-e-calabresa_140725-1152.jpg" },
     { id: 2, name: "Frango c/ Catupiry", price: 60.00, category: "pizza", desc: "Frango desfiado, catupiry original e milho.", img: "https://img.freepik.com/fotos-premium/deliciosa-pizza-brasileira-de-frango-com-catupiry_284424-490.jpg" },
-    { id: 3, name: "Portuguesa", price: 65.00, category: "pizza", desc: "Presunto, ovos, cebola, ervilha e mussarela.", img: "https://pizzariadomleo.com.br/wp-content/uploads/2017/05/portuguesa-2.jpg" },
-    { id: 4, name: "Quatro Queijos", price: 68.00, category: "pizza", desc: "Mussarela, provolone, parmesão e gorgonzola.", img: "https://claudia.abril.com.br/wp-content/uploads/2020/02/pizza-quatro-queijos-1.jpg" },
-    { id: 5, name: "Marguerita", price: 60.00, category: "pizza", desc: "Mussarela, rodelas de tomate e manjericão fresco.", img: "https://s2.glbimg.com/7tM-vP9j-jYlC6d02HqMvD8M9a8=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e3b9d70419497b71236132252d5/internal_photos/bs/2022/e/1/6e2z70S62qX0A2qJgB2A/pizza-margherita.jpg" },
-    { id: 6, name: "Baiana Picante", price: 65.00, category: "pizza", desc: "Calabresa moída, pimenta, cebola e ovo.", img: "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-baiana-0.png" },
-    { id: 7, name: "Carne de Sol", price: 70.00, category: "pizza", desc: "Carne do sol desfiada, queijo coalho e cebola roxa.", img: "https://pizzariadomleo.com.br/wp-content/uploads/2017/05/nordestina-2.jpg" },
-    { id: 8, name: "Top Baiana (Especial)", price: 75.00, category: "pizza", desc: "A moda da casa: Tudo que você tem direito!", img: "https://s2.glbimg.com/wM0lwa9Xcfq_X4vM94TSu_TKyBw=/620x455/e.glbimg.com/og/ed/f/original/2020/07/09/pizza_de_liquidificador_de_calabresa_bacon_e_milho.jpg" },
-    
-    // --- NOVAS PIZZAS ---
-    { id: 9, name: "Bacon com Milho", price: 62.00, category: "pizza", desc: "Mussarela, bacon crocante em cubos e milho.", img: "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-bacon-0.png" },
-    { id: 10, name: "Lombo Canadense", price: 65.00, category: "pizza", desc: "Lombo canadense, cebola roxa e catupiry.", img: "https://media-cdn.tripadvisor.com/media/photo-s/0f/42/60/5e/pizza-de-lombo-canadense.jpg" },
-    { id: 11, name: "Vegetariana", price: 58.00, category: "pizza", desc: "Brócolis, palmito, milho, tomate e cebola.", img: "https://pizzariadomleo.com.br/wp-content/uploads/2017/05/vegetariana-2.jpg" },
-    { id: 12, name: "Moda do Chefe", price: 72.00, category: "pizza", desc: "Presunto, calabresa, bacon, ovo, milho e ervilha.", img: "https://s2.glbimg.com/wM0lwa9Xcfq_X4vM94TSu_TKyBw=/620x455/e.glbimg.com/og/ed/f/original/2020/07/09/pizza_de_liquidificador_de_calabresa_bacon_e_milho.jpg" },
+    { id: 3, name: "Arrumadinho", price: 60.00, category: "pizza", desc: "Carne do sol, calabresa, queijo coalho e cebola.", img: "https://pizzariadomleo.com.br/wp-content/uploads/2017/05/nordestina-2.jpg" },
+    { id: 4, name: "Top Baiana", price: 60.00, category: "pizza", desc: "A especial da casa: Tudo que você tem direito.", img: "https://s2.glbimg.com/wM0lwa9Xcfq_X4vM94TSu_TKyBw=/620x455/e.glbimg.com/og/ed/f/original/2020/07/09/pizza_de_liquidificador_de_calabresa_bacon_e_milho.jpg" },
+
+    // --- NOVAS PIZZAS ADICIONADAS (IDs 9 a 12) ---
+    { id: 9, name: "Portuguesa", price: 65.00, category: "pizza", desc: "Presunto, ovos, cebola, ervilha e mussarela.", img: "https://pizzariadomleo.com.br/wp-content/uploads/2017/05/portuguesa-2.jpg" },
+    { id: 10, name: "Quatro Queijos", price: 68.00, category: "pizza", desc: "Mussarela, provolone, parmesão e gorgonzola.", img: "https://claudia.abril.com.br/wp-content/uploads/2020/02/pizza-quatro-queijos-1.jpg" },
+    { id: 11, name: "Marguerita", price: 60.00, category: "pizza", desc: "Mussarela, rodelas de tomate e manjericão fresco.", img: "https://s2.glbimg.com/7tM-vP9j-jYlC6d02HqMvD8M9a8=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e3b9d70419497b71236132252d5/internal_photos/bs/2022/e/1/6e2z70S62qX0A2qJgB2A/pizza-margherita.jpg" },
+    { id: 12, name: "Bacon com Milho", price: 62.00, category: "pizza", desc: "Mussarela, bacon crocante em cubos e milho.", img: "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-bacon-0.png" },
+    { id: 77, name: "Teste", price: 100.00, category: "pizza", desc: "Teste.", img: "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-bacon-0.png" },
 
     // --- COMBOS ---
-    { id: 15, name: "Combo Mozão", price: 80.00, category: "combo", desc: "Pizza Coração + Refri. Perfeito para casal.", img: "https://i.pinimg.com/736x/21/16/d7/2116d783ae50d58ae258984415b1084e.jpg" },
+    { id: 5, name: "Combo Mozão", price: 80.00, category: "combo", desc: "Pizza Coração + Refri. Perfeito para casal.", img: "https://i.pinimg.com/736x/21/16/d7/2116d783ae50d58ae258984415b1084e.jpg" },
 
-    // --- PROMOÇÕES (Ids usados nos botões do HTML) ---
+    // --- BEBIDAS (IDs 6 e 7 usados no HTML) ---
+    { id: 6, name: "Pepsi 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "https://m.media-amazon.com/images/I/61N80N48JJS._AC_UF1000,1000_QL80_.jpg" },
+    { id: 7, name: "Guaraná 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "https://ibassets.com.br/ib.item.image.big/b-28ec7a229fb442159261971424554e5d.jpg" },
+
+    // --- PROMOÇÕES (IDs usados nos botões do HTML) ---
     { id: 99, name: "PROMO: 2 Calabresas", price: 100.00, category: "promo", desc: "Promoção Dupla Calabresa", img: "" },
     { id: 30, name: "PROMO: Combo Família", price: 85.00, category: "promo", desc: "1 Pizza G + 1 Refri 2L", img: "" },
     { id: 31, name: "PROMO: Trio Galera", price: 160.00, category: "promo", desc: "3 Pizzas Tradicionais", img: "" },
-    { id: 32, name: "PROMO: Pizza + Broto", price: 80.00, category: "promo", desc: "1 Salgada + 1 Broto Doce", img: "" },
-
-    // --- BEBIDAS ---
-    { id: 20, name: "Pepsi 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "https://m.media-amazon.com/images/I/61N80N48JJS._AC_UF1000,1000_QL80_.jpg" },
-    { id: 21, name: "Guaraná 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "https://ibassets.com.br/ib.item.image.big/b-28ec7a229fb442159261971424554e5d.jpg" },
-    { id: 22, name: "Coca-Cola 2L", price: 12.00, category: "bebida", desc: "Gelada", img: "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/16336/medium.jpg" }
+    { id: 32, name: "PROMO: Pizza + Broto", price: 80.00, category: "promo", desc: "1 Salgada + 1 Broto Doce", img: "" }
 ];
 
 // Lista de adicionais pagos
@@ -42,33 +38,22 @@ const opcionais = [
 // Variável para saber qual item estamos editando no modal
 let itemSelecionado = null; 
 
-// --- 2. CARREGA OS DADOS (MODO FORÇAR ATUALIZAÇÃO) ---
-// Ignoramos o que estava salvo antes e usamos a lista nova (menuPadrao)
-console.log("Forçando atualização do cardápio...");
+// --- 2. CARREGA OS DADOS (Forçando atualização v5) ---
 let menuItems = menuPadrao; 
-
-// Salva a versão nova na memória para o futuro
-localStorage.setItem('topBaiana_v4', JSON.stringify(menuPadrao));
-
-// Se não existir ou se a lista salva for menor que a nova, atualiza tudo!
-if (!menuItems || menuItems.length < menuPadrao.length) {
-    console.log("Atualizando cardápio...");
-    menuItems = menuPadrao;
-    localStorage.setItem('topBaiana_v2', JSON.stringify(menuPadrao));
-}
+localStorage.setItem('topBaiana_v6', JSON.stringify(menuPadrao));
 
 let cart = [];
 
 // --- INICIALIZAÇÃO ---
 document.addEventListener('DOMContentLoaded', () => {
+    // Como você inseriu o HTML manualmente, vamos apenas ativar os botões
+    // sem apagar o seu HTML. Mas se o HTML estiver vazio, o renderizar preenche.
     renderizarCardapio(); 
     setupNavigation();    
     
-    // Configura carrinho e finalização
     const checkoutBtn = document.getElementById('checkout-btn');
     if(checkoutBtn) checkoutBtn.addEventListener('click', finalizarPedido);
     
-    // Troco
     const paySelect = document.getElementById('payment-select');
     if(paySelect) {
         paySelect.addEventListener('change', (e) => {
@@ -78,75 +63,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-// --- 3. FUNÇÃO QUE DESENHA OS CARDS ---
+// --- 3. FUNÇÃO DE RENDERIZAÇÃO ---
 function renderizarCardapio() {
-    const gridPizzas = document.getElementById('grid-pizzas');
-    const gridCombos = document.getElementById('grid-combos');
-    const gridBebidas = document.getElementById('grid-bebidas');
-
-    if(gridPizzas) gridPizzas.innerHTML = '';
-    if(gridCombos) gridCombos.innerHTML = '';
-    if(gridBebidas) gridBebidas.innerHTML = '';
-
-    menuItems.forEach(item => {
-        // Só desenha se tiver as divs no HTML
-        const card = criarHTMLCard(item);
-        
-        if(item.category === 'pizza' && gridPizzas) {
-            gridPizzas.innerHTML += card;
-        }
-        else if(item.category === 'combo' && gridCombos) {
-            gridCombos.innerHTML += card;
-        }
-        else if(item.category === 'bebida' && gridBebidas) {
-            gridBebidas.innerHTML += card;
-        }
-    });
-
-    // IMPORTANTE: Reativa TODOS os botões, inclusive os das PROMOÇÕES manuais
+    // Nota: Como você colocou o HTML manual, esta função vai checar se precisa desenhar
+    // ou apenas ativar os botões. Para garantir que tudo funcione, vamos manter a lógica
+    // de ativar os botões que já existem na tela.
     reativarBotoesAdicionar();
 }
 
-function criarHTMLCard(item) {
-    // Card de Bebida (Mini)
-    if (item.category === 'bebida') {
-        return `
-            <div class="item-card mini" data-id="${item.id}">
-                <div class="card-img" style="width:60px;height:60px;margin:0 auto 10px;">
-                    <img src="${item.img}" alt="${item.name}">
-                </div>
-                <div class="card-details row" style="height:auto;align-items:center;">
-                    <h4>${item.name}</h4>
-                    <div class="card-footer" style="width:100%;justify-content:center;gap:10px;">
-                        <span class="price">${formatMoney(item.price)}</span>
-                        <button class="add-btn icon-only"><i class="fas fa-plus"></i></button>
-                    </div>
-                </div>
-            </div>`;
-    }
-    // Card de Pizza/Combo normal
-    // Promoções não usam essa função pois já estão no HTML, mas usam a lógica de adicionar
-    return `
-        <div class="item-card" data-id="${item.id}">
-            <div class="card-img"><img src="${item.img}" alt="${item.name}"></div>
-            <div class="card-details">
-                <h4>${item.name}</h4>
-                <p>${item.desc}</p>
-                <div class="card-footer">
-                    <span class="price">${formatMoney(item.price)}</span>
-                    <button class="add-btn">Adicionar</button>
-                </div>
-            </div>
-        </div>`;
-}
-
-// --- 4. LÓGICA DE BOTÕES E MODAL DE OPÇÕES ---
+// --- 4. LÓGICA DE BOTÕES ---
 function reativarBotoesAdicionar() {
-    // Pega TODOS os botões "Adicionar" ou "Eu Quero" da tela inteira
     const btns = document.querySelectorAll('.add-btn');
-    
     btns.forEach(btn => {
-        // Remove listener antigo para não duplicar (caso renderize 2x)
         const novoBtn = btn.cloneNode(true);
         btn.parentNode.replaceChild(novoBtn, btn);
         
@@ -154,19 +82,18 @@ function reativarBotoesAdicionar() {
             const card = e.target.closest('.item-card');
             const id = parseInt(card.getAttribute('data-id'));
             
-            // Procura o item na lista completa
+            // Procura o item na lista de dados (menuPadrao)
             const item = menuItems.find(i => i.id === id);
             
             if(item) {
-                // Se for pizza, abre personalização. 
-                // Se for Bebida ou Promoção (combo), adiciona direto.
                 if (item.category === 'pizza') {
                     abrirModalOpcoes(item);
                 } else {
                     addItemToCart(item);
                 }
             } else {
-                console.error("Item não encontrado ID:", id);
+                console.error("Item não encontrado no JS. ID:", id);
+                showToast("Erro: Item não cadastrado no sistema");
             }
         });
     });
@@ -246,7 +173,6 @@ window.confirmarAdicaoCarrinho = () => {
 
 // --- 5. LÓGICA DE CARRINHO ---
 function addItemToCart(item) {
-    // Adiciona item direto (bebidas e promos)
     const existing = cart.find(i => i.id === item.id && (!i.extras || i.extras.length === 0));
     if(existing) {
         existing.qty++;
@@ -429,3 +355,25 @@ window.salvarCliente = () => {
         alert("Preencha o nome e o telefone completo (com DDD)!");
     }
 };
+
+// --- SEGURANÇA: BLOQUEIO DE F12 E BOTÃO DIREITO ---
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+document.onkeydown = function(e) {
+    // Bloqueia F12
+    if(e.keyCode == 123) {
+        return false;
+    }
+    // Bloqueia Ctrl+I (Inspecionar)
+    if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)){
+        return false;
+    }
+    // Bloqueia Ctrl+J (Console)
+    if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)){
+        return false;
+    }
+    // Bloqueia Ctrl+U (Ver Fonte)
+    if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)){
+        return false;
+    }
+}
