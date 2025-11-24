@@ -1,3 +1,26 @@
+/* Adicione isso no início do seu style.css, dentro do seletor * ou body */
+
+body {
+    /* Impede seleção de texto e imagem */
+    -webkit-user-select: none; /* Safari/Chrome */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE/Edge */
+    user-select: none; /* Padrão */
+    
+    /* Impede menu de contexto (segurar o dedo na tela) no iOS */
+    -webkit-touch-callout: none;
+}
+
+/* Permite selecionar apenas dentro de inputs e textareas para digitar */
+input, textarea {
+    -webkit-user-select: text;
+    user-select: text;
+}
+
+/* Impede arrastar imagens (previne salvar imagem arrastando) */
+img {
+    pointer-events: none; /* A imagem não reage a cliques/arrastes */
+}
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap');
 
 :root {
@@ -322,3 +345,89 @@ body {
 .cart-extras { font-size: 0.75rem; color: var(--success); margin-top: 2px; }
 .cart-obs { font-size: 0.75rem; color: #aaa; font-style: italic; margin-top: 2px; }
 .delete-btn { background: var(--secondary) !important; }
+/* --- ESTILO GERAL DA ABA PERFIL (Móvel e PC) --- */
+
+/* 1. Container Principal Centralizado */
+.profile-wrapper {
+    width: 100%;
+    max-width: 600px; /* Limita a largura para não esticar demais */
+    margin: 20px auto; /* "auto" nas laterais centraliza o bloco na tela */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.05); /* Fundo sutil */
+    border-radius: 15px;
+    box-sizing: border-box; /* Garante que o padding não aumente a largura */
+}
+
+/* 2. Cabeçalho (Ícone e Título) */
+.profile-header {
+    text-align: center; /* Centraliza texto e ícone */
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Força alinhamento central flex */
+}
+
+.profile-header i {
+    font-size: 4rem;
+    color: var(--primary);
+    margin-bottom: 10px;
+}
+
+.profile-header h3 {
+    color: #fff;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.profile-header p {
+    color: #aaa;
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
+
+/* 3. Campos de Texto (Inputs) */
+.profile-wrapper .form-group {
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: left; /* O rótulo "Nome" fica à esquerda, padrão de formulário */
+}
+
+.profile-wrapper label {
+    margin-left: 5px; /* Pequeno recuo para alinhar com a borda arredondada do input */
+}
+
+.profile-wrapper input, 
+.profile-wrapper textarea {
+    width: 100%; /* Ocupa todo o espaço disponível */
+    box-sizing: border-box; /* Evita que a borda estoure a tela */
+}
+
+/* 4. Botão Salvar */
+.save-user-btn {
+    width: 100%; /* No celular, botão grande é melhor */
+    max-width: 300px; /* Mas no PC, não deixa ficar gigante */
+    margin: 20px auto 0 auto; /* Centraliza o botão no bloco */
+    display: block; /* Necessário para o margin auto funcionar */
+    text-align: center;
+}
+
+/* --- AJUSTES ESPECÍFICOS PARA COMPUTADOR (Telas Grandes) --- */
+@media (min-width: 768px) {
+    .profile-wrapper {
+        padding: 40px;
+        background: rgba(255, 255, 255, 0.08); /* Fundo um pouco mais visível no PC */
+        box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    }
+
+    .desktop-row {
+        display: flex;
+        gap: 20px;
+        justify-content: space-between;
+    }
+
+    .desktop-row .form-group {
+        flex: 1; /* Divide o espaço igualmente */
+    }
+}
