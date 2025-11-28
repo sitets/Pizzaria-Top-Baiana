@@ -1,1 +1,420 @@
-const _0x535cca=_0x4430;(function(_0x59d641,_0x1a925e){const _0x18a047=_0x4430,_0x4c1a8b=_0x59d641();while(!![]){try{const _0x57989f=-parseInt(_0x18a047(0xa9))/0x1+-parseInt(_0x18a047(0xfc))/0x2+-parseInt(_0x18a047(0xc8))/0x3*(parseInt(_0x18a047(0xc1))/0x4)+parseInt(_0x18a047(0xac))/0x5*(parseInt(_0x18a047(0x131))/0x6)+parseInt(_0x18a047(0xd4))/0x7*(parseInt(_0x18a047(0x8a))/0x8)+-parseInt(_0x18a047(0x135))/0x9*(-parseInt(_0x18a047(0x147))/0xa)+-parseInt(_0x18a047(0x9c))/0xb*(-parseInt(_0x18a047(0x119))/0xc);if(_0x57989f===_0x1a925e)break;else _0x4c1a8b['push'](_0x4c1a8b['shift']());}catch(_0x18e297){_0x4c1a8b['push'](_0x4c1a8b['shift']());}}}(_0x1860,0x2b5af),(function(){const _0x4394a2=_0x4430;document[_0x4394a2(0x113)]('contextmenu',_0xcc2adf=>_0xcc2adf[_0x4394a2(0x97)]()),document[_0x4394a2(0xfb)]=function(_0x1db015){const _0xab32af=_0x4394a2;if(_0x1db015['keyCode']==0x7b)return![];if(_0x1db015[_0xab32af(0x139)]&&_0x1db015['shiftKey']&&_0x1db015[_0xab32af(0x103)]=='I'[_0xab32af(0x86)](0x0))return![];if(_0x1db015[_0xab32af(0x139)]&&_0x1db015['shiftKey']&&_0x1db015[_0xab32af(0x103)]=='C'[_0xab32af(0x86)](0x0))return![];if(_0x1db015[_0xab32af(0x139)]&&_0x1db015[_0xab32af(0x13a)]&&_0x1db015[_0xab32af(0x103)]=='J'['charCodeAt'](0x0))return![];if(_0x1db015[_0xab32af(0x139)]&&_0x1db015[_0xab32af(0x103)]=='U'[_0xab32af(0x86)](0x0))return![];},setInterval(function(){const _0x5333c3=_0x4394a2,_0x514a7d=new Date()[_0x5333c3(0x11a)]();(function(){}[_0x5333c3(0xbb)](_0x5333c3(0x107))());const _0xd04ad3=new Date()[_0x5333c3(0x11a)]();_0xd04ad3-_0x514a7d>0x64&&(document['body'][_0x5333c3(0x99)]=_0x5333c3(0xb9));},0x3e8);}()),(function(){const _0x5a30c0=_0x4430,_0x4eee96=(function(){let _0x192dad=!![];return function(_0xb9c503,_0xa04f3){const _0x4c6471=_0x192dad?function(){const _0x19dd8e=_0x4430;if(_0xa04f3){const _0x4a6ba7=_0xa04f3[_0x19dd8e(0x138)](_0xb9c503,arguments);return _0xa04f3=null,_0x4a6ba7;}}:function(){};return _0x192dad=![],_0x4c6471;};}()),_0x4b67f9=_0x4eee96(this,function(){const _0x516c30=_0x4430;return _0x4b67f9[_0x516c30(0xe5)]()[_0x516c30(0x98)](_0x516c30(0xae))[_0x516c30(0xe5)]()[_0x516c30(0xbb)](_0x4b67f9)[_0x516c30(0x98)](_0x516c30(0xae));});_0x4b67f9();const _0x1c35f5=(function(){let _0x5bb4c8=!![];return function(_0x20c845,_0x31f11e){const _0x7bed21=_0x5bb4c8?function(){const _0x198a55=_0x4430;if(_0x31f11e){const _0x15b8e9=_0x31f11e[_0x198a55(0x138)](_0x20c845,arguments);return _0x31f11e=null,_0x15b8e9;}}:function(){};return _0x5bb4c8=![],_0x7bed21;};}());(function(){_0x1c35f5(this,function(){const _0x495387=_0x4430,_0x238441=new RegExp(_0x495387(0x115)),_0x3c2f16=new RegExp(_0x495387(0xca),'i'),_0x898fb1=_0x34e9e8(_0x495387(0xe0));!_0x238441[_0x495387(0xf1)](_0x898fb1+_0x495387(0x143))||!_0x3c2f16['test'](_0x898fb1+'input')?_0x898fb1('0'):_0x34e9e8();})();}());const _0x3ef409=(function(){let _0x3c9bde=!![];return function(_0x3c0037,_0x482a70){const _0x31f4c5=_0x3c9bde?function(){const _0x2cd16c=_0x4430;if(_0x482a70){const _0x58bc89=_0x482a70[_0x2cd16c(0x138)](_0x3c0037,arguments);return _0x482a70=null,_0x58bc89;}}:function(){};return _0x3c9bde=![],_0x31f4c5;};}()),_0x1dcee6=_0x3ef409(this,function(){const _0x1fbc8d=_0x4430;let _0x1d7bc4;try{const _0x2314cb=Function(_0x1fbc8d(0x11f)+_0x1fbc8d(0x7b)+');');_0x1d7bc4=_0x2314cb();}catch(_0x3b09b9){_0x1d7bc4=window;}const _0x255190=_0x1d7bc4[_0x1fbc8d(0x134)]=_0x1d7bc4['console']||{},_0x5df28d=[_0x1fbc8d(0x121),_0x1fbc8d(0xc9),_0x1fbc8d(0xa2),_0x1fbc8d(0x12c),_0x1fbc8d(0x92),_0x1fbc8d(0xe4),_0x1fbc8d(0x89)];for(let _0x28d3a9=0x0;_0x28d3a9<_0x5df28d[_0x1fbc8d(0x10b)];_0x28d3a9++){const _0x50a429=_0x3ef409[_0x1fbc8d(0xbb)][_0x1fbc8d(0x82)]['bind'](_0x3ef409),_0x3b1b56=_0x5df28d[_0x28d3a9],_0x2edef7=_0x255190[_0x3b1b56]||_0x50a429;_0x50a429[_0x1fbc8d(0xd0)]=_0x3ef409[_0x1fbc8d(0xe3)](_0x3ef409),_0x50a429['toString']=_0x2edef7['toString'][_0x1fbc8d(0xe3)](_0x2edef7),_0x255190[_0x3b1b56]=_0x50a429;}});_0x1dcee6();const _0x46a38e=_0x5a30c0(0x10f),_0x215542=document[_0x5a30c0(0x133)](_0x5a30c0(0x12a));_0x215542[_0x5a30c0(0x10e)]='text/css',_0x215542[_0x5a30c0(0xab)]=_0x46a38e,document[_0x5a30c0(0x10c)][_0x5a30c0(0x141)](_0x215542);}()));const menuPadrao=[{'id':0x1,'name':_0x535cca(0x80),'price':0x3c,'category':_0x535cca(0x12e),'desc':_0x535cca(0xb8),'img':_0x535cca(0xaf)},{'id':0x2,'name':_0x535cca(0xda),'price':0x3c,'category':_0x535cca(0x12e),'desc':_0x535cca(0xe6),'img':'https://img.freepik.com/fotos-premium/deliciosa-pizza-brasileira-de-frango-com-catupiry_284424-490.jpg'},{'id':0x3,'name':_0x535cca(0xe8),'price':0x3c,'category':_0x535cca(0x12e),'desc':'Carne\x20do\x20sol,\x20calabresa,\x20queijo\x20coalho\x20e\x20cebola.','img':_0x535cca(0x109)},{'id':0x4,'name':'Top\x20Baiana','price':0x3c,'category':_0x535cca(0x12e),'desc':_0x535cca(0xaa),'img':'https://s2.glbimg.com/wM0lwa9Xcfq_X4vM94TSu_TKyBw=/620x455/e.glbimg.com/og/ed/f/original/2020/07/09/pizza_de_liquidificador_de_calabresa_bacon_e_milho.jpg'},{'id':0x9,'name':_0x535cca(0x118),'price':0x41,'category':_0x535cca(0x12e),'desc':'Presunto,\x20ovos,\x20cebola,\x20ervilha\x20e\x20mussarela.','img':_0x535cca(0xb6)},{'id':0xa,'name':'Quatro\x20Queijos','price':0x44,'category':_0x535cca(0x12e),'desc':_0x535cca(0xb4),'img':_0x535cca(0x94)},{'id':0xb,'name':_0x535cca(0x12d),'price':0x3c,'category':_0x535cca(0x12e),'desc':_0x535cca(0xcd),'img':_0x535cca(0xa5)},{'id':0xc,'name':_0x535cca(0xa6),'price':0x3e,'category':_0x535cca(0x12e),'desc':'Mussarela,\x20bacon\x20crocante\x20em\x20cubos\x20e\x20milho.','img':_0x535cca(0xdf)},{'id':0x4d,'name':'Teste','price':0x64,'category':_0x535cca(0x12e),'desc':_0x535cca(0xb0),'img':'https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-bacon-0.png'},{'id':0x5,'name':_0x535cca(0xed),'price':0x50,'category':'combo','desc':'Pizza\x20Coração\x20+\x20Refri.\x20Perfeito\x20para\x20casal.','img':_0x535cca(0x8e)},{'id':0x6,'name':'Pepsi\x201L','price':0x8,'category':_0x535cca(0x148),'desc':_0x535cca(0x93),'img':_0x535cca(0xd3)},{'id':0x7,'name':_0x535cca(0x116),'price':0x8,'category':'bebida','desc':'Gelada','img':'https://ibassets.com.br/ib.item.image.big/b-28ec7a229fb442159261971424554e5d.jpg'},{'id':0x63,'name':_0x535cca(0xd8),'price':0x64,'category':_0x535cca(0x120),'desc':_0x535cca(0xb2),'img':''},{'id':0x1e,'name':_0x535cca(0xbf),'price':0x55,'category':_0x535cca(0x120),'desc':'1\x20Pizza\x20G\x20+\x201\x20Refri\x202L','img':''},{'id':0x1f,'name':_0x535cca(0xcb),'price':0xa0,'category':'promo','desc':_0x535cca(0x132),'img':''},{'id':0x20,'name':_0x535cca(0xf7),'price':0x50,'category':'promo','desc':'1\x20Salgada\x20+\x201\x20Broto\x20Doce','img':''}],opcionais=[{'name':_0x535cca(0x13d),'price':0xa},{'name':'Borda\x20de\x20Cheddar','price':0xa},{'name':_0x535cca(0xf4),'price':0x8},{'name':_0x535cca(0x108),'price':0x8}];let itemSelecionado=null,menuItems=menuPadrao;localStorage[_0x535cca(0x112)](_0x535cca(0xc3),JSON[_0x535cca(0x137)](menuPadrao));let cart=[];document[_0x535cca(0x113)]('DOMContentLoaded',()=>{const _0x3f189a=_0x535cca;renderizarCardapio(),setupNavigation();const _0x47ae3b=document[_0x3f189a(0xf9)](_0x3f189a(0x149));if(_0x47ae3b)_0x47ae3b[_0x3f189a(0x113)](_0x3f189a(0xc7),finalizarPedido);const _0xde778e=document[_0x3f189a(0xf9)](_0x3f189a(0xbd));_0xde778e&&_0xde778e[_0x3f189a(0x113)]('change',_0x36c9b5=>{const _0x1aa73d=_0x3f189a,_0x2c6eec=document[_0x1aa73d(0xf9)](_0x1aa73d(0xdb));if(_0x2c6eec)_0x2c6eec['style'][_0x1aa73d(0xf5)]=_0x36c9b5[_0x1aa73d(0xa8)][_0x1aa73d(0x9f)]===_0x1aa73d(0x101)?'block':_0x1aa73d(0x7d);});const _0x38c336=JSON[_0x3f189a(0xa4)](localStorage[_0x3f189a(0xd2)](_0x3f189a(0x96)));if(_0x38c336){const _0x391488=document[_0x3f189a(0xf9)]('perfil-name'),_0x3591f3=document[_0x3f189a(0xf9)]('perfil-phone'),_0x31851d=document[_0x3f189a(0xf9)](_0x3f189a(0x123));if(_0x391488)_0x391488[_0x3f189a(0x9f)]=_0x38c336[_0x3f189a(0x13f)]||'';if(_0x3591f3)_0x3591f3[_0x3f189a(0x9f)]=_0x38c336[_0x3f189a(0x124)]||'';if(_0x31851d)_0x31851d['value']=_0x38c336[_0x3f189a(0xfa)]||'';const _0x3b586f=document[_0x3f189a(0xf9)](_0x3f189a(0xe9));if(_0x3b586f&&_0x38c336['endereco'])_0x3b586f[_0x3f189a(0x9f)]=_0x38c336[_0x3f189a(0xfa)];}});function renderizarCardapio(){reativarBotoesAdicionar();}function reativarBotoesAdicionar(){const _0x1d6f8d=_0x535cca,_0x5aad80=document[_0x1d6f8d(0xf3)](_0x1d6f8d(0x8c));_0x5aad80[_0x1d6f8d(0xfd)](_0x31935a=>{const _0x472809=_0x1d6f8d,_0x32e0fe=_0x31935a[_0x472809(0xdc)](!![]);_0x31935a['parentNode'][_0x472809(0xdd)](_0x32e0fe,_0x31935a),_0x32e0fe[_0x472809(0x113)](_0x472809(0xc7),_0xc4c147=>{const _0x5623b2=_0x472809,_0x1cf486=_0xc4c147[_0x5623b2(0xa8)]['closest'](_0x5623b2(0xde)),_0x43b1c0=parseInt(_0x1cf486[_0x5623b2(0xad)](_0x5623b2(0xea))),_0x3691f9=menuItems['find'](_0x3913e4=>_0x3913e4['id']===_0x43b1c0);_0x3691f9?_0x3691f9[_0x5623b2(0xc5)]===_0x5623b2(0x12e)?abrirModalOpcoes(_0x3691f9):addItemToCart(_0x3691f9):showToast(_0x5623b2(0x11c));});});}function abrirModalOpcoes(_0xefad83){const _0x1cf303=_0x535cca;itemSelecionado=_0xefad83;const _0x53f42f=document[_0x1cf303(0xf9)](_0x1cf303(0xd6));document[_0x1cf303(0xf9)]('modal-item-name')[_0x1cf303(0xab)]=_0xefad83[_0x1cf303(0x128)],document[_0x1cf303(0xf9)](_0x1cf303(0x10d))[_0x1cf303(0x9f)]='';const _0x372394=document[_0x1cf303(0xf9)]('lista-adicionais');_0x372394[_0x1cf303(0x99)]=_0x1cf303(0x126),opcionais[_0x1cf303(0xfd)]((_0x347893,_0x3c150e)=>{const _0x3d69a3=_0x1cf303;_0x372394[_0x3d69a3(0x99)]+=_0x3d69a3(0x136)+_0x3c150e+_0x3d69a3(0x9a)+_0x347893[_0x3d69a3(0x128)]+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>+\x20'+formatMoney(_0x347893['price'])+_0x3d69a3(0xd5);}),atualizarTotalModal(_0xefad83['price']),_0x53f42f['classList']['add'](_0x1cf303(0x105));}window['fecharModalOpcoes']=()=>document[_0x535cca(0xf9)](_0x535cca(0xd6))[_0x535cca(0x7c)][_0x535cca(0xbc)](_0x535cca(0x105)),window[_0x535cca(0xc4)]=()=>{const _0x7c20fe=_0x535cca;let _0x191a91=itemSelecionado[_0x7c20fe(0x125)];const _0x66138a=document[_0x7c20fe(0xf3)](_0x7c20fe(0x12b));_0x66138a[_0x7c20fe(0xfd)](_0x187e63=>_0x191a91+=opcionais[_0x187e63[_0x7c20fe(0x9f)]]['price']),atualizarTotalModal(_0x191a91);};function atualizarTotalModal(_0x401997){const _0x95bed3=_0x535cca;document['getElementById'](_0x95bed3(0xf6))[_0x95bed3(0xab)]=formatMoney(_0x401997);}window[_0x535cca(0xf2)]=()=>{const _0x5b715d=_0x535cca,_0x171b9b=document[_0x5b715d(0xf3)]('.check-adicional:checked');let _0x43f5b3=[],_0x5e0f42=0x0;_0x171b9b['forEach'](_0x207819=>{const _0x46abb1=_0x5b715d,_0x147b25=opcionais[_0x207819[_0x46abb1(0x9f)]];_0x43f5b3[_0x46abb1(0xcc)](_0x147b25['name']),_0x5e0f42+=_0x147b25['price'];});const _0x308672=document[_0x5b715d(0xf9)](_0x5b715d(0x10d))[_0x5b715d(0x9f)],_0x192859={...itemSelecionado,'uniqueId':Date['now'](),'price':itemSelecionado[_0x5b715d(0x125)]+_0x5e0f42,'extras':_0x43f5b3,'observacao':_0x308672,'qty':0x1};cart[_0x5b715d(0xcc)](_0x192859),updateCartUI(),showToast(itemSelecionado[_0x5b715d(0x128)]+_0x5b715d(0xe1)),fecharModalOpcoes();};function addItemToCart(_0x113668){const _0x425c0=_0x535cca,_0x4e6b69=cart[_0x425c0(0x8b)](_0x865bcd=>_0x865bcd['id']===_0x113668['id']&&(!_0x865bcd[_0x425c0(0x95)]||_0x865bcd[_0x425c0(0x95)][_0x425c0(0x10b)]===0x0));_0x4e6b69?_0x4e6b69['qty']++:cart[_0x425c0(0xcc)]({..._0x113668,'qty':0x1,'extras':[],'observacao':''}),updateCartUI(),showToast('+1\x20'+_0x113668['name']+_0x425c0(0x13e));}window[_0x535cca(0x11b)]=_0x64b3e9=>{const _0x47d546=_0x535cca;cart[_0x47d546(0x7e)](_0x64b3e9,0x1),updateCartUI();};function _0x1860(){const _0x2e8e81=['warn','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','PROMO:\x20Trio\x20Galera','push','Mussarela,\x20rodelas\x20de\x20tomate\x20e\x20manjericão\x20fresco.','https://wa.me/5571999999999?text=','tab-carrinho','__proto__','counter','getItem','https://m.media-amazon.com/images/I/61N80N48JJS._AC_UF1000,1000_QL80_.jpg','1763587VBVQKv','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','modal-opcoes','*NOVO\x20PEDIDO\x20-\x20','PROMO:\x202\x20Calabresas','cart-subtotal','Frango\x20c/\x20Catupiry','troco-div','cloneNode','replaceChild','.item-card','https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-bacon-0.png','init','\x20adicionada!','\x20\x22</div>','bind','table','toString','Frango\x20desfiado,\x20catupiry\x20original\x20e\x20milho.','</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Arrumadinho','address-input','data-id','fecharModal','client-phone','Combo\x20Mozão','\x20=\x20','string','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22cart-item\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22cart-item-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>','test','confirmarAdicaoCarrinho','querySelectorAll','Bacon\x20Extra','display','modal-item-total','PROMO:\x20Pizza\x20+\x20Broto','\x0aTel:\x20','getElementById','endereco','onkeydown','709272tiLKVS','forEach','replace','($1)\x20$2','abrirCardapio','Dinheiro','app-screen','keyCode','.nav-item','active','querySelector','debugger','Queijo\x20Extra','https://pizzariadomleo.com.br/wp-content/uploads/2017/05/nordestina-2.jpg','input','length','head','obs-item','type','\x0a\x20\x20\x20\x20@import\x20url(\x27https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap\x27);\x0a\x20\x20\x20\x20:root\x20{\x20--primary:\x20#ffb700;\x20--secondary:\x20#d32f2f;\x20--dark-bg:\x20#120a0a;\x20--glass:\x20rgba(255,\x20255,\x20255,\x200.08);\x20--glass-border:\x20rgba(255,\x20255,\x20255,\x200.1);\x20--text:\x20#ffffff;\x20--text-muted:\x20#bbbbbb;\x20--success:\x20#25D366;\x20--safe-area-bottom:\x20env(safe-area-inset-bottom);\x20}\x0a\x20\x20\x20\x20*\x20{\x20margin:\x200;\x20padding:\x200;\x20box-sizing:\x20border-box;\x20font-family:\x20\x27Poppins\x27,\x20sans-serif;\x20-webkit-tap-highlight-color:\x20transparent;\x20}\x0a\x20\x20\x20\x20body\x20{\x20background-color:\x20var(--dark-bg);\x20color:\x20var(--text);\x20overflow-x:\x20hidden;\x20overscroll-behavior-y:\x20none;\x20-webkit-user-select:\x20none;\x20user-select:\x20none;\x20}\x0a\x20\x20\x20\x20input,\x20textarea\x20{\x20-webkit-user-select:\x20text;\x20user-select:\x20text;\x20}\x0a\x20\x20\x20\x20img\x20{\x20pointer-events:\x20none;\x20}\x0a\x20\x20\x20\x20.screen\x20{\x20display:\x20none;\x20width:\x20100%;\x20height:\x20100vh;\x20overflow:\x20hidden;\x20position:\x20relative;\x20}\x0a\x20\x20\x20\x20.screen.active\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20animation:\x20fadeIn\x200.3s\x20ease;\x20}\x0a\x20\x20\x20\x20@keyframes\x20fadeIn\x20{\x20from\x20{\x20opacity:\x200;\x20}\x20to\x20{\x20opacity:\x201;\x20}\x20}\x0a\x20\x20\x20\x20@keyframes\x20pulse\x20{\x200%\x20{\x20transform:\x20scale(1);\x20box-shadow:\x200\x200\x200\x200\x20rgba(255,\x20183,\x200,\x200.4);\x20}\x2070%\x20{\x20transform:\x20scale(1.05);\x20box-shadow:\x200\x200\x200\x2015px\x20rgba(255,\x20183,\x200,\x200);\x20}\x20100%\x20{\x20transform:\x20scale(1);\x20box-shadow:\x200\x200\x200\x200\x20rgba(255,\x20183,\x200,\x200);\x20}\x20}\x0a\x20\x20\x20\x20#home-screen\x20{\x20background:\x20url(\x27https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000\x27)\x20no-repeat\x20center\x20center/cover;\x20z-index:\x202000;\x20align-items:\x20center;\x20justify-content:\x20flex-end;\x20padding-bottom:\x2040px;\x20}\x0a\x20\x20\x20\x20#home-screen::before\x20{\x20content:\x20\x27\x27;\x20position:\x20absolute;\x20top:\x200;\x20left:\x200;\x20width:\x20100%;\x20height:\x20100%;\x20background:\x20linear-gradient(0deg,\x20rgba(0,0,0,1)\x200%,\x20rgba(20,5,5,0.8)\x2050%,\x20rgba(0,0,0,0.2)\x20100%);\x20}\x0a\x20\x20\x20\x20.content-home\x20{\x20position:\x20relative;\x20z-index:\x202;\x20width:\x20100%;\x20padding:\x2030px;\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20.logo-img\x20{\x20font-size:\x201.8rem;\x20color:\x20var(--primary);\x20font-weight:\x20900;\x20margin-bottom:\x2020px;\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20line-height:\x201;\x20}\x0a\x20\x20\x20\x20.logo-img\x20i\x20{\x20font-size:\x203.5rem;\x20color:\x20var(--secondary);\x20margin-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20.main-title\x20{\x20font-size:\x202.2rem;\x20line-height:\x201.1;\x20margin-bottom:\x2030px;\x20font-weight:\x20800;\x20}\x0a\x20\x20\x20\x20.highlight\x20{\x20color:\x20var(--primary);\x20}\x0a\x20\x20\x20\x20.hours-container\x20{\x20background:\x20rgba(255,255,255,0.1);\x20border:\x201px\x20solid\x20var(--glass-border);\x20padding:\x2015px;\x20border-radius:\x2015px;\x20width:\x20100%;\x20margin-bottom:\x2030px;\x20}\x0a\x20\x20\x20\x20.hours-container\x20h3\x20{\x20font-size:\x200.8rem;\x20text-transform:\x20uppercase;\x20letter-spacing:\x202px;\x20color:\x20var(--text-muted);\x20margin-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20.badge-group\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20gap:\x208px;\x20}\x0a\x20\x20\x20\x20.badge\x20{\x20background:\x20var(--secondary);\x20padding:\x208px;\x20border-radius:\x208px;\x20font-size:\x200.85rem;\x20font-weight:\x20600;\x20}\x0a\x20\x20\x20\x20.cta-button\x20{\x20width:\x20100%;\x20background:\x20var(--primary);\x20color:\x20#3a0000;\x20border:\x20none;\x20padding:\x2020px;\x20font-size:\x201.1rem;\x20font-weight:\x20800;\x20border-radius:\x2015px;\x20cursor:\x20pointer;\x20animation:\x20pulse\x202s\x20infinite;\x20text-transform:\x20uppercase;\x20letter-spacing:\x201px;\x20display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x20gap:\x2010px;\x20box-shadow:\x200\x2010px\x2030px\x20rgba(255,\x20183,\x200,\x200.2);\x20}\x0a\x20\x20\x20\x20.app-header\x20{\x20flex-shrink:\x200;\x20height:\x2060px;\x20background:\x20#1a0505;\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20padding:\x200\x2020px;\x20border-bottom:\x201px\x20solid\x20var(--glass-border);\x20position:\x20relative;\x20z-index:\x20100;\x20}\x0a\x20\x20\x20\x20.app-header\x20h2\x20{\x20font-size:\x201.1rem;\x20}\x0a\x20\x20\x20\x20#back-home-btn\x20{\x20background:\x20none;\x20border:\x20none;\x20color:\x20var(--primary);\x20font-size:\x201.4rem;\x20padding:\x2010px;\x20margin-left:\x20-10px;\x20}\x0a\x20\x20\x20\x20.cart-icon-wrap\x20{\x20position:\x20relative;\x20padding:\x2010px;\x20margin-right:\x20-10px;\x20}\x0a\x20\x20\x20\x20.cart-icon-wrap\x20i\x20{\x20font-size:\x201.4rem;\x20color:\x20#fff;\x20}\x0a\x20\x20\x20\x20.badge-count\x20{\x20position:\x20absolute;\x20top:\x205px;\x20right:\x205px;\x20background:\x20var(--secondary);\x20width:\x2018px;\x20height:\x2018px;\x20font-size:\x200.7rem;\x20border-radius:\x2050%;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20font-weight:\x20bold;\x20border:\x202px\x20solid\x20#1a0505;\x20}\x0a\x20\x20\x20\x20.app-content\x20{\x20flex-grow:\x201;\x20overflow-y:\x20auto;\x20overflow-x:\x20hidden;\x20padding:\x2015px\x2015px\x20100px\x2015px;\x20-webkit-overflow-scrolling:\x20touch;\x20}\x0a\x20\x20\x20\x20.tab-content\x20{\x20display:\x20none;\x20}\x0a\x20\x20\x20\x20.tab-content.active\x20{\x20display:\x20block;\x20animation:\x20fadeIn\x200.3s;\x20}\x0a\x20\x20\x20\x20.cat-title\x20{\x20font-size:\x201.2rem;\x20color:\x20var(--primary);\x20margin:\x2020px\x200\x2015px\x200;\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x208px;\x20border-left:\x204px\x20solid\x20var(--secondary);\x20padding-left:\x2010px;\x20}\x0a\x20\x20\x20\x20.menu-grid\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20gap:\x2015px;\x20}\x0a\x20\x20\x20\x20.item-card\x20{\x20background:\x20var(--glass);\x20border:\x201px\x20solid\x20var(--glass-border);\x20border-radius:\x2015px;\x20padding:\x2012px;\x20display:\x20flex;\x20gap:\x2015px;\x20position:\x20relative;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20.card-img\x20{\x20width:\x2090px;\x20height:\x2090px;\x20border-radius:\x2012px;\x20overflow:\x20hidden;\x20flex-shrink:\x200;\x20border:\x201px\x20solid\x20rgba(255,255,255,0.1);\x20background:\x20#000;\x20}\x0a\x20\x20\x20\x20.card-img\x20img\x20{\x20width:\x20100%;\x20height:\x20100%;\x20object-fit:\x20cover;\x20transition:\x20transform\x200.3s\x20ease;\x20}\x0a\x20\x20\x20\x20.card-details\x20{\x20flex:\x201;\x20display:\x20flex;\x20flex-direction:\x20column;\x20justify-content:\x20space-between;\x20height:\x2090px;\x20}\x0a\x20\x20\x20\x20.card-details\x20h4\x20{\x20font-size:\x201rem;\x20font-weight:\x20600;\x20color:\x20#fff;\x20line-height:\x201.2;\x20margin-bottom:\x204px;\x20}\x0a\x20\x20\x20\x20.card-details\x20p\x20{\x20font-size:\x200.75rem;\x20color:\x20var(--text-muted);\x20line-height:\x201.3;\x20display:\x20-webkit-box;\x20-webkit-line-clamp:\x202;\x20-webkit-box-orient:\x20vertical;\x20overflow:\x20hidden;\x20text-overflow:\x20ellipsis;\x20}\x0a\x20\x20\x20\x20.card-footer\x20{\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20flex-end;\x20margin-top:\x20auto;\x20}\x0a\x20\x20\x20\x20.price\x20{\x20font-weight:\x20700;\x20color:\x20var(--primary);\x20font-size:\x201rem;\x20}\x0a\x20\x20\x20\x20.add-btn\x20{\x20background:\x20#fff;\x20color:\x20#000;\x20border:\x20none;\x20padding:\x208px\x2015px;\x20border-radius:\x2020px;\x20font-size:\x200.75rem;\x20font-weight:\x20800;\x20text-transform:\x20uppercase;\x20box-shadow:\x200\x204px\x2010px\x20rgba(0,0,0,0.3);\x20}\x0a\x20\x20\x20\x20.add-btn:active\x20{\x20transform:\x20scale(0.95);\x20background:\x20var(--primary);\x20}\x0a\x20\x20\x20\x20.menu-grid.compact\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x201fr;\x20gap:\x2010px;\x20}\x0a\x20\x20\x20\x20.item-card.mini\x20{\x20flex-direction:\x20column;\x20text-align:\x20center;\x20padding:\x2010px;\x20}\x0a\x20\x20\x20\x20.item-card.mini\x20.card-img\x20{\x20width:\x2060px;\x20height:\x2060px;\x20margin:\x200\x20auto\x2010px\x20auto;\x20}\x0a\x20\x20\x20\x20.item-card.mini\x20.card-details\x20{\x20height:\x20auto;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20.item-card.mini\x20h4\x20{\x20font-size:\x200.9rem;\x20margin-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20.item-card.mini\x20.card-footer\x20{\x20width:\x20100%;\x20justify-content:\x20center;\x20gap:\x2010px;\x20}\x0a\x20\x20\x20\x20.item-card.promo\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(40,10,10,1)\x200%,\x20rgba(20,5,5,1)\x20100%);\x20border:\x201px\x20solid\x20var(--secondary);\x20}\x0a\x20\x20\x20\x20.tag-discount\x20{\x20position:\x20absolute;\x20top:\x200;\x20right:\x200;\x20background:\x20var(--secondary);\x20font-size:\x200.6rem;\x20padding:\x203px\x208px;\x20border-bottom-left-radius:\x2010px;\x20font-weight:\x20bold;\x20}\x0a\x20\x20\x20\x20.old-price\x20{\x20text-decoration:\x20line-through;\x20font-size:\x200.8rem;\x20color:\x20#666;\x20margin-right:\x208px;\x20}\x0a\x20\x20\x20\x20.cart-panel\x20{\x20background:\x20rgba(255,255,255,0.05);\x20border-radius:\x2015px;\x20padding:\x2015px;\x20}\x0a\x20\x20\x20\x20.cart-item\x20{\x20border-bottom:\x201px\x20solid\x20var(--glass-border);\x20padding:\x2015px\x200;\x20}\x0a\x20\x20\x20\x20.cart-controls\x20{\x20background:\x20rgba(0,0,0,0.5);\x20border-radius:\x2020px;\x20padding:\x205px\x2010px;\x20display:\x20flex;\x20gap:\x2015px;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20.qty-btn\x20{\x20font-size:\x201.2rem;\x20width:\x2030px;\x20height:\x2030px;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20rgba(255,255,255,0.1);\x20border-radius:\x2050%;\x20border:\x20none;\x20color:\x20white;\x20}\x0a\x20\x20\x20\x20.cart-summary\x20{\x20border-top:\x201px\x20solid\x20var(--glass-border);\x20padding-top:\x2015px;\x20margin-bottom:\x2020px;\x20}\x0a\x20\x20\x20\x20.summary-row\x20{\x20display:\x20flex;\x20justify-content:\x20space-between;\x20margin-bottom:\x205px;\x20font-size:\x200.9rem;\x20color:\x20var(--text-muted);\x20}\x0a\x20\x20\x20\x20.summary-row.total\x20{\x20font-size:\x201.3rem;\x20font-weight:\x20800;\x20color:\x20var(--primary);\x20margin-top:\x2010px;\x20}\x0a\x20\x20\x20\x20.empty-cart\x20{\x20text-align:\x20center;\x20padding:\x2030px;\x20color:\x20var(--text-muted);\x20}\x0a\x20\x20\x20\x20.form-group\x20{\x20margin-bottom:\x2015px;\x20}\x0a\x20\x20\x20\x20.form-group\x20label\x20{\x20font-size:\x200.85rem;\x20color:\x20var(--text-muted);\x20margin-bottom:\x208px;\x20display:\x20block;\x20}\x0a\x20\x20\x20\x20.form-group\x20input,\x20.form-group\x20select,\x20.form-group\x20textarea\x20{\x20font-size:\x2016px;\x20background:\x20#2a1515;\x20border:\x201px\x20solid\x20#442222;\x20color:\x20white;\x20padding:\x2012px;\x20border-radius:\x2010px;\x20width:\x20100%;\x20outline:\x20none;\x20}\x0a\x20\x20\x20\x20.checkout-button\x20{\x20width:\x20100%;\x20padding:\x2018px;\x20background:\x20var(--success);\x20color:\x20white;\x20border:\x20none;\x20border-radius:\x2012px;\x20font-size:\x201.1rem;\x20font-weight:\x20bold;\x20display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x20gap:\x2010px;\x20margin-top:\x2020px;\x20box-shadow:\x200\x204px\x2015px\x20rgba(37,\x20211,\x20102,\x200.3);\x20}\x0a\x20\x20\x20\x20.checkout-button:disabled\x20{\x20background:\x20#444;\x20cursor:\x20not-allowed;\x20opacity:\x200.7;\x20box-shadow:\x20none;\x20}\x0a\x20\x20\x20\x20.bottom-nav\x20{\x20position:\x20fixed;\x20bottom:\x2020px;\x20left:\x2050%;\x20transform:\x20translateX(-50%);\x20width:\x2092%;\x20max-width:\x20400px;\x20background:\x20rgba(30,\x2010,\x2010,\x200.95);\x20backdrop-filter:\x20blur(15px);\x20border:\x201px\x20solid\x20rgba(255,255,255,0.15);\x20border-radius:\x2025px;\x20height:\x2065px;\x20display:\x20flex;\x20justify-content:\x20space-around;\x20align-items:\x20center;\x20z-index:\x20999;\x20box-shadow:\x200\x2010px\x2030px\x20rgba(0,0,0,0.5);\x20padding-bottom:\x20env(safe-area-inset-bottom);\x20}\x0a\x20\x20\x20\x20.nav-item\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20justify-content:\x20center;\x20color:\x20rgba(255,255,255,0.5);\x20transition:\x200.3s;\x20width:\x2060px;\x20}\x0a\x20\x20\x20\x20.nav-item\x20i\x20{\x20font-size:\x201.3rem;\x20margin-bottom:\x204px;\x20}\x0a\x20\x20\x20\x20.nav-item\x20span\x20{\x20font-size:\x200.65rem;\x20font-weight:\x20600;\x20}\x0a\x20\x20\x20\x20.nav-item.active\x20{\x20color:\x20var(--primary);\x20transform:\x20translateY(-2px);\x20}\x0a\x20\x20\x20\x20#toast-box\x20{\x20position:\x20fixed;\x20top:\x2070px;\x20left:\x2050%;\x20transform:\x20translateX(-50%);\x20width:\x2090%;\x20text-align:\x20center;\x20z-index:\x209999;\x20pointer-events:\x20none;\x20}\x0a\x20\x20\x20\x20.toast\x20{\x20background:\x20rgba(255,255,255,0.95);\x20color:\x20#000;\x20padding:\x2012px\x2020px;\x20border-radius:\x2050px;\x20margin-bottom:\x2010px;\x20font-weight:\x20600;\x20box-shadow:\x200\x205px\x2015px\x20rgba(0,0,0,0.3);\x20animation:\x20slideIn\x200.3s\x20ease,\x20fadeOut\x200.3s\x20ease\x202.5s\x20forwards;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20gap:\x2010px;\x20font-size:\x200.9rem;\x20}\x0a\x20\x20\x20\x20.toast\x20i\x20{\x20color:\x20var(--success);\x20}\x0a\x20\x20\x20\x20.modal-overlay\x20{\x20display:\x20none;\x20position:\x20fixed;\x20top:\x200;\x20left:\x200;\x20width:\x20100%;\x20height:\x20100%;\x20background:\x20rgba(0,\x200,\x200,\x200.85);\x20backdrop-filter:\x20blur(5px);\x20z-index:\x2010000;\x20justify-content:\x20center;\x20align-items:\x20center;\x20animation:\x20fadeIn\x200.3s\x20ease;\x20}\x0a\x20\x20\x20\x20.modal-overlay.active\x20{\x20display:\x20flex;\x20}\x0a\x20\x20\x20\x20.modal-box\x20{\x20background:\x20linear-gradient(145deg,\x20#2a0e0e,\x20#1a0505);\x20width:\x2095%;\x20max-width:\x20350px;\x20padding:\x2025px;\x20border-radius:\x2020px;\x20border:\x201px\x20solid\x20var(--primary);\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,0,0,0.8);\x20position:\x20relative;\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20.modal-header\x20{\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20margin-bottom:\x2020px;\x20border-bottom:\x201px\x20solid\x20rgba(255,255,255,0.1);\x20padding-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20.modal-header\x20h3\x20{\x20color:\x20var(--primary);\x20font-size:\x201.2rem;\x20}\x0a\x20\x20\x20\x20.close-modal\x20{\x20background:\x20none;\x20border:\x20none;\x20color:\x20#fff;\x20font-size:\x202rem;\x20cursor:\x20pointer;\x20line-height:\x201;\x20}\x0a\x20\x20\x20\x20.save-user-btn\x20{\x20width:\x20100%;\x20background:\x20var(--success);\x20color:\x20white;\x20border:\x20none;\x20padding:\x2015px;\x20font-size:\x201rem;\x20font-weight:\x20bold;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20margin-top:\x2015px;\x20transition:\x200.3s;\x20}\x0a\x20\x20\x20\x20.save-user-btn:hover\x20{\x20background:\x20#1ebc57;\x20transform:\x20scale(1.02);\x20}\x0a\x20\x20\x20\x20.adicionais-container\x20{\x20text-align:\x20left;\x20margin-bottom:\x2015px;\x20background:\x20rgba(0,0,0,0.2);\x20padding:\x2010px;\x20border-radius:\x2010px;\x20}\x0a\x20\x20\x20\x20.section-label\x20{\x20font-size:\x200.9rem;\x20color:\x20var(--primary);\x20margin-bottom:\x2010px;\x20font-weight:\x20bold;\x20}\x0a\x20\x20\x20\x20.opcao-row\x20{\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20margin-bottom:\x208px;\x20padding-bottom:\x208px;\x20border-bottom:\x201px\x20solid\x20rgba(255,255,255,0.05);\x20}\x0a\x20\x20\x20\x20.opcao-row\x20label\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x2010px;\x20font-size:\x200.9rem;\x20cursor:\x20pointer;\x20}\x0a\x20\x20\x20\x20.check-adicional\x20{\x20accent-color:\x20var(--primary);\x20transform:\x20scale(1.2);\x20}\x0a\x20\x20\x20\x20.modal-footer-price\x20{\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20margin:\x2020px\x200;\x20padding-top:\x2015px;\x20border-top:\x201px\x20solid\x20rgba(255,255,255,0.1);\x20}\x0a\x20\x20\x20\x20.price-big\x20{\x20font-size:\x201.5rem;\x20color:\x20var(--primary);\x20font-weight:\x20800;\x20}\x0a\x20\x20\x20\x20.cart-extras\x20{\x20font-size:\x200.75rem;\x20color:\x20var(--success);\x20margin-top:\x202px;\x20}\x0a\x20\x20\x20\x20.cart-obs\x20{\x20font-size:\x200.75rem;\x20color:\x20#aaa;\x20font-style:\x20italic;\x20margin-top:\x202px;\x20}\x0a\x20\x20\x20\x20.delete-btn\x20{\x20background:\x20var(--secondary)\x20!important;\x20}\x0a\x20\x20\x20\x20.profile-wrapper\x20{\x20width:\x20100%;\x20max-width:\x20600px;\x20margin:\x2020px\x20auto;\x20padding:\x2020px;\x20background:\x20rgba(255,\x20255,\x20255,\x200.05);\x20border-radius:\x2015px;\x20box-sizing:\x20border-box;\x20}\x0a\x20\x20\x20\x20.profile-header\x20{\x20text-align:\x20center;\x20margin-bottom:\x2030px;\x20border-bottom:\x201px\x20solid\x20rgba(255,\x20255,\x20255,\x200.1);\x20padding-bottom:\x2020px;\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20.profile-header\x20i\x20{\x20font-size:\x204rem;\x20color:\x20var(--primary);\x20margin-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20.profile-header\x20h3\x20{\x20color:\x20#fff;\x20font-size:\x201.5rem;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20.profile-header\x20p\x20{\x20color:\x20#aaa;\x20font-size:\x200.9rem;\x20margin-top:\x205px;\x20}\x0a\x20\x20\x20\x20.profile-wrapper\x20.form-group\x20{\x20width:\x20100%;\x20margin-bottom:\x2015px;\x20text-align:\x20left;\x20}\x0a\x20\x20\x20\x20.profile-wrapper\x20label\x20{\x20margin-left:\x205px;\x20}\x0a\x20\x20\x20\x20.profile-wrapper\x20input,\x20.profile-wrapper\x20textarea\x20{\x20width:\x20100%;\x20box-sizing:\x20border-box;\x20}\x0a\x20\x20\x20\x20.save-user-btn\x20{\x20width:\x20100%;\x20max-width:\x20300px;\x20margin:\x2020px\x20auto\x200\x20auto;\x20display:\x20block;\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20@media\x20(min-width:\x20768px)\x20{\x20.profile-wrapper\x20{\x20padding:\x2040px;\x20background:\x20rgba(255,\x20255,\x20255,\x200.08);\x20box-shadow:\x200\x2010px\x2040px\x20rgba(0,0,0,0.5);\x20}\x20.desktop-row\x20{\x20display:\x20flex;\x20gap:\x2020px;\x20justify-content:\x20space-between;\x20}\x20.desktop-row\x20.form-group\x20{\x20flex:\x201;\x20}\x20}\x0a\x20\x20\x20\x20','flex','observacao','setItem','addEventListener','while\x20(true)\x20{}','function\x20*\x5c(\x20*\x5c)','Guaraná\x201L','<i\x20class=\x22fas\x20fa-check\x22></i>\x20','Portuguesa','384mNCQzw','getTime','removerItemCarrinho','Erro:\x20Item\x20não\x20cadastrado\x20no\x20sistema','\x20\x20\x20(Obs:\x20','perfil-name','return\x20(function()\x20','promo','log','.nav-item[data-target=\x22','perfil-address','telefone','price','<p\x20class=\x22section-label\x22>Turbine\x20sua\x20pizza:</p>','call','name','perfil-phone','style','.check-adicional:checked','error','Marguerita','pizza','irParaCarrinho','Pagamento:\x20','612kyrdog','3\x20Pizzas\x20Tradicionais','createElement','console','179127QFuwem','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22opcao-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20class=\x22check-adicional\x22\x20value=\x22','stringify','apply','ctrlKey','shiftKey','data-target','home-screen','Borda\x20de\x20Catupiry','\x20add!','nome','toast','appendChild','Dados\x20salvos\x20com\x20sucesso!','chain','join','Digite\x20o\x20endereço\x20completo!','currency','70rJMWMg','bebida','checkout-btn','Por\x20favor,\x20preencha\x20o\x20nome\x20e\x20um\x20telefone\x20válido.','{}.constructor(\x22return\x20this\x22)(\x20)','classList','none','splice','modal-cadastro','Calabresa','disabled','prototype',')\x22\x20style=\x22background:\x20#d32f2f;\x22><i\x20class=\x22fas\x20fa-trash\x22></i></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','action','qty','charCodeAt','<div\x20class=\x22cart-extras\x22>+\x20','substring','trace','8sHNnwM','find','.add-btn','add','https://i.pinimg.com/736x/21/16/d7/2116d783ae50d58ae258984415b1084e.jpg','pt-BR','salvarPerfilCompleto','open','exception','Gelada','https://claudia.abril.com.br/wp-content/uploads/2020/02/pizza-quatro-queijos-1.jpg','extras','clienteTopBaiana','preventDefault','search','innerHTML','\x22\x20onchange=\x22calcularTotalModal()\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','cart-items-list','88099jRnLYi','</div>','\x20x\x20','value','<div\x20class=\x22cart-obs\x22>\x22\x20','troco-input','info','gger','parse','https://s2.glbimg.com/7tM-vP9j-jYlC6d02HqMvD8M9a8=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e3b9d70419497b71236132252d5/internal_photos/bs/2022/e/1/6e2z70S62qX0A2qJgB2A/pizza-margherita.jpg','Bacon\x20com\x20Milho','toLocaleString','target','87814sCjTre','A\x20especial\x20da\x20casa:\x20Tudo\x20que\x20você\x20tem\x20direito.','innerText','15580SISocW','getAttribute','(((.+)+)+)+$','https://img.freepik.com/fotos-gratis/pizza-fresca-com-cogumelos-e-calabresa_140725-1152.jpg','Teste.','stateObject','Promoção\x20Dupla\x20Calabresa','debu','Mussarela,\x20provolone,\x20parmesão\x20e\x20gorgonzola.','\x20(Troco\x20p/\x20','https://pizzariadomleo.com.br/wp-content/uploads/2017/05/portuguesa-2.jpg','\x20\x20\x20+\x20','Mussarela,\x20calabresa,\x20cebola\x20e\x20orégano.','<div\x20style=\x22background:black;color:red;height:100vh;display:flex;justify-content:center;align-items:center;font-family:sans-serif;text-align:center;\x22><h1>⚠️\x20Acesso\x20Negado<br>Sistema\x20de\x20Proteção\x20Ativo</h1></div>','\x20-\x20','constructor','remove','payment-select','</small>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22cart-controls\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22qty-btn\x20delete-btn\x22\x20onclick=\x22removerItemCarrinho(','PROMO:\x20Combo\x20Família','back-home-btn','1381396mQNiBG','tab-pedidos','topBaiana_v6','calcularTotalModal','category','cart-total-value','click','3CxQegF'];_0x1860=function(){return _0x2e8e81;};return _0x1860();}function updateCartUI(){const _0x4bfd7f=_0x535cca,_0x3374ae=document['getElementById'](_0x4bfd7f(0x9b)),_0x32ed46=document['getElementById']('cart-count'),_0x1acb43=document[_0x4bfd7f(0xf9)](_0x4bfd7f(0xc6)),_0x3ef515=document[_0x4bfd7f(0xf9)](_0x4bfd7f(0xd9)),_0x5b4cb3=document[_0x4bfd7f(0xf9)]('checkout-btn');if(!_0x3374ae)return;_0x3374ae[_0x4bfd7f(0x99)]='';let _0x2a7276=0x0,_0x261bcb=0x0;if(cart[_0x4bfd7f(0x10b)]===0x0){_0x3374ae[_0x4bfd7f(0x99)]='<div\x20class=\x22empty-cart\x22><p>Carrinho\x20vazio\x20:(</p></div>';if(_0x5b4cb3)_0x5b4cb3[_0x4bfd7f(0x81)]=!![];}else{if(_0x5b4cb3)_0x5b4cb3[_0x4bfd7f(0x81)]=![];cart[_0x4bfd7f(0xfd)]((_0x5071e5,_0x1bf9ce)=>{const _0x268343=_0x4bfd7f;_0x2a7276+=_0x5071e5[_0x268343(0x125)]*_0x5071e5['qty'],_0x261bcb+=_0x5071e5['qty'];let _0x5a533d='';if(_0x5071e5[_0x268343(0x95)]&&_0x5071e5[_0x268343(0x95)]['length']>0x0)_0x5a533d+=_0x268343(0x87)+_0x5071e5[_0x268343(0x95)][_0x268343(0x144)](',\x20')+_0x268343(0x9d);if(_0x5071e5[_0x268343(0x111)])_0x5a533d+=_0x268343(0xa0)+_0x5071e5[_0x268343(0x111)]+_0x268343(0xe2);_0x3374ae['innerHTML']+=_0x268343(0xf0)+_0x5071e5[_0x268343(0x128)]+_0x268343(0xe7)+_0x5a533d+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small>'+formatMoney(_0x5071e5[_0x268343(0x125)])+_0x268343(0x9e)+_0x5071e5[_0x268343(0x85)]+_0x268343(0xee)+formatMoney(_0x5071e5[_0x268343(0x125)]*_0x5071e5[_0x268343(0x85)])+_0x268343(0xbe)+_0x1bf9ce+_0x268343(0x83);});}_0x32ed46&&(_0x32ed46[_0x4bfd7f(0xab)]=_0x261bcb,_0x32ed46[_0x4bfd7f(0x12a)][_0x4bfd7f(0xf5)]=_0x261bcb>0x0?_0x4bfd7f(0x110):_0x4bfd7f(0x7d));if(_0x1acb43)_0x1acb43[_0x4bfd7f(0xab)]=formatMoney(_0x2a7276);if(_0x3ef515)_0x3ef515['innerText']=formatMoney(_0x2a7276);}function formatMoney(_0x41506f){const _0x5499d3=_0x535cca;return _0x41506f[_0x5499d3(0xa7)](_0x5499d3(0x8f),{'style':_0x5499d3(0x146),'currency':'BRL'});}function showToast(_0xc60846){const _0x4d2e0e=_0x535cca,_0x1e59b7=document[_0x4d2e0e(0xf9)]('toast-box');if(_0x1e59b7){const _0x4c3d6f=document['createElement']('div');_0x4c3d6f['className']=_0x4d2e0e(0x140),_0x4c3d6f[_0x4d2e0e(0x99)]=_0x4d2e0e(0x117)+_0xc60846,_0x1e59b7[_0x4d2e0e(0x141)](_0x4c3d6f),setTimeout(()=>_0x4c3d6f[_0x4d2e0e(0xbc)](),0xbb8);}}function setupNavigation(){const _0x3a8a5b=_0x535cca,_0x290a6a=document[_0x3a8a5b(0xf9)](_0x3a8a5b(0xc0));if(_0x290a6a)_0x290a6a[_0x3a8a5b(0x113)](_0x3a8a5b(0xc7),()=>{const _0x30eb0a=_0x3a8a5b;document[_0x30eb0a(0xf9)](_0x30eb0a(0x102))['classList']['remove'](_0x30eb0a(0x105)),document[_0x30eb0a(0xf9)]('home-screen')[_0x30eb0a(0x7c)][_0x30eb0a(0x8d)](_0x30eb0a(0x105)),document['getElementById'](_0x30eb0a(0x13c))[_0x30eb0a(0x12a)]['display']=_0x30eb0a(0x110);});document[_0x3a8a5b(0xf3)](_0x3a8a5b(0x104))[_0x3a8a5b(0xfd)](_0x3f43bd=>{const _0x21c5e7=_0x3a8a5b;_0x3f43bd[_0x21c5e7(0x113)](_0x21c5e7(0xc7),()=>mudarAba(_0x3f43bd[_0x21c5e7(0xad)](_0x21c5e7(0x13b))));});}function mudarAba(_0x37f4ce){const _0x5a41c5=_0x535cca;document[_0x5a41c5(0xf3)]('.tab-content')['forEach'](_0x47800d=>_0x47800d[_0x5a41c5(0x7c)][_0x5a41c5(0xbc)](_0x5a41c5(0x105))),document[_0x5a41c5(0xf3)](_0x5a41c5(0x104))[_0x5a41c5(0xfd)](_0x1b857d=>_0x1b857d[_0x5a41c5(0x7c)][_0x5a41c5(0xbc)](_0x5a41c5(0x105)));const _0x5b95f9=document[_0x5a41c5(0xf9)](_0x37f4ce);if(_0x5b95f9)_0x5b95f9[_0x5a41c5(0x7c)][_0x5a41c5(0x8d)](_0x5a41c5(0x105));const _0x293b60=document[_0x5a41c5(0x106)](_0x5a41c5(0x122)+_0x37f4ce+'\x22]');if(_0x293b60)_0x293b60[_0x5a41c5(0x7c)][_0x5a41c5(0x8d)](_0x5a41c5(0x105));}function abrirCardapio(){const _0x421c85=_0x535cca;document['getElementById'](_0x421c85(0x13c))[_0x421c85(0x7c)][_0x421c85(0xbc)](_0x421c85(0x105)),document[_0x421c85(0xf9)](_0x421c85(0x13c))[_0x421c85(0x12a)]['display']=_0x421c85(0x7d),document[_0x421c85(0xf9)]('app-screen')[_0x421c85(0x7c)][_0x421c85(0x8d)](_0x421c85(0x105)),mudarAba(_0x421c85(0xc2));}window[_0x535cca(0x100)]=abrirCardapio,window[_0x535cca(0x12f)]=function(){const _0x1b9c5d=_0x535cca;mudarAba(_0x1b9c5d(0xcf));};const inputTelefone=document[_0x535cca(0xf9)](_0x535cca(0xec));inputTelefone&&inputTelefone['addEventListener'](_0x535cca(0x10a),_0x20d340=>{const _0x2a2275=_0x535cca;let _0x300e1f=_0x20d340['target'][_0x2a2275(0x9f)]['replace'](/\D/g,'');if(_0x300e1f[_0x2a2275(0x10b)]>0xb)_0x300e1f=_0x300e1f[_0x2a2275(0x88)](0x0,0xb);_0x300e1f=_0x300e1f['replace'](/^(\d{2})(\d)/g,_0x2a2275(0xff)),_0x300e1f=_0x300e1f[_0x2a2275(0xfe)](/(\d)(\d{4})$/,'$1-$2'),_0x20d340[_0x2a2275(0xa8)][_0x2a2275(0x9f)]=_0x300e1f;});const inputPerfilPhone=document[_0x535cca(0xf9)](_0x535cca(0x129));inputPerfilPhone&&inputPerfilPhone[_0x535cca(0x113)](_0x535cca(0x10a),_0xf12231=>{const _0x147bb1=_0x535cca;let _0x34fae4=_0xf12231[_0x147bb1(0xa8)][_0x147bb1(0x9f)][_0x147bb1(0xfe)](/\D/g,'');if(_0x34fae4[_0x147bb1(0x10b)]>0xb)_0x34fae4=_0x34fae4['substring'](0x0,0xb);_0x34fae4=_0x34fae4['replace'](/^(\d{2})(\d)/g,'($1)\x20$2'),_0x34fae4=_0x34fae4[_0x147bb1(0xfe)](/(\d)(\d{4})$/,'$1-$2'),_0xf12231[_0x147bb1(0xa8)]['value']=_0x34fae4;});let cliente=JSON['parse'](localStorage[_0x535cca(0xd2)](_0x535cca(0x96)));function finalizarPedido(){const _0x3b3923=_0x535cca;if(!cliente){document[_0x3b3923(0xf9)](_0x3b3923(0x7f))[_0x3b3923(0x7c)][_0x3b3923(0x8d)](_0x3b3923(0x105));return;}const _0x274aef=document[_0x3b3923(0xf9)](_0x3b3923(0xe9))['value'],_0x10cd6d=document[_0x3b3923(0xf9)](_0x3b3923(0xbd))['value'],_0x387533=document[_0x3b3923(0xf9)](_0x3b3923(0xa1))['value'];if(!_0x274aef||_0x274aef[_0x3b3923(0x10b)]<0x5){alert(_0x3b3923(0x145));return;}let _0x4e4807=_0x3b3923(0xd7)+cliente[_0x3b3923(0x13f)]+'*\x0a------------------\x0a',_0x47fac0=0x0;cart['forEach'](_0x4a5d31=>{const _0x6ddd8a=_0x3b3923;_0x4e4807+=_0x4a5d31[_0x6ddd8a(0x85)]+'x\x20'+_0x4a5d31['name']+_0x6ddd8a(0xba)+formatMoney(_0x4a5d31[_0x6ddd8a(0x125)])+'\x0a';if(_0x4a5d31['extras']&&_0x4a5d31[_0x6ddd8a(0x95)][_0x6ddd8a(0x10b)]>0x0)_0x4e4807+=_0x6ddd8a(0xb7)+_0x4a5d31[_0x6ddd8a(0x95)][_0x6ddd8a(0x144)](',\x20')+'\x0a';if(_0x4a5d31[_0x6ddd8a(0x111)])_0x4e4807+=_0x6ddd8a(0x11d)+_0x4a5d31[_0x6ddd8a(0x111)]+')\x0a';_0x4e4807+='\x0a',_0x47fac0+=_0x4a5d31['price']*_0x4a5d31[_0x6ddd8a(0x85)];}),_0x4e4807+='------------------\x0a*TOTAL:\x20'+formatMoney(_0x47fac0)+'*\x0a',_0x4e4807+=_0x3b3923(0x130)+_0x10cd6d;if(_0x10cd6d===_0x3b3923(0x101)&&_0x387533)_0x4e4807+=_0x3b3923(0xb5)+_0x387533+')';_0x4e4807+='\x0a\x0a*Entrega:*\x0a'+_0x274aef+_0x3b3923(0xf8)+cliente[_0x3b3923(0x124)],window[_0x3b3923(0x91)](_0x3b3923(0xce)+encodeURIComponent(_0x4e4807));}function _0x4430(_0x241f5d,_0x538ecf){const _0x4d499f=_0x1860();return _0x4430=function(_0x423e01,_0x4509ab){_0x423e01=_0x423e01-0x7a;let _0x9f5581=_0x4d499f[_0x423e01];return _0x9f5581;},_0x4430(_0x241f5d,_0x538ecf);}window[_0x535cca(0xeb)]=()=>document[_0x535cca(0xf9)]('modal-cadastro')[_0x535cca(0x7c)][_0x535cca(0xbc)](_0x535cca(0x105)),window['salvarCliente']=()=>{const _0x16dd92=_0x535cca,_0x32ea9e=document[_0x16dd92(0xf9)]('client-name')[_0x16dd92(0x9f)],_0x139e7a=document[_0x16dd92(0xf9)](_0x16dd92(0xec))[_0x16dd92(0x9f)];_0x32ea9e&&_0x139e7a['length']>=0xe?(cliente={'nome':_0x32ea9e,'telefone':_0x139e7a},localStorage['setItem']('clienteTopBaiana',JSON[_0x16dd92(0x137)](cliente)),fecharModal(),finalizarPedido()):alert('Preencha\x20o\x20nome\x20e\x20o\x20telefone\x20completo\x20(com\x20DDD)!');},window[_0x535cca(0x90)]=()=>{const _0x13b7e6=_0x535cca,_0xa4e459=document['getElementById'](_0x13b7e6(0x11e))[_0x13b7e6(0x9f)],_0x271c87=document[_0x13b7e6(0xf9)](_0x13b7e6(0x129))[_0x13b7e6(0x9f)],_0x3cbea9=document[_0x13b7e6(0xf9)](_0x13b7e6(0x123))[_0x13b7e6(0x9f)];if(!_0xa4e459||_0x271c87[_0x13b7e6(0x10b)]<0xe){alert(_0x13b7e6(0x7a));return;}const _0x630bff={'nome':_0xa4e459,'telefone':_0x271c87,'endereco':_0x3cbea9};localStorage[_0x13b7e6(0x112)](_0x13b7e6(0x96),JSON['stringify'](_0x630bff)),cliente=_0x630bff;const _0x328286=document[_0x13b7e6(0xf9)](_0x13b7e6(0xe9));if(_0x328286)_0x328286[_0x13b7e6(0x9f)]=_0x3cbea9;showToast(_0x13b7e6(0x142));};function _0x34e9e8(_0x5928fc){function _0x1a8ea5(_0x1ba02f){const _0x3af766=_0x4430;if(typeof _0x1ba02f===_0x3af766(0xef))return function(_0x133b07){}[_0x3af766(0xbb)](_0x3af766(0x114))[_0x3af766(0x138)](_0x3af766(0xd1));else(''+_0x1ba02f/_0x1ba02f)[_0x3af766(0x10b)]!==0x1||_0x1ba02f%0x14===0x0?function(){return!![];}['constructor'](_0x3af766(0xb3)+_0x3af766(0xa3))[_0x3af766(0x127)](_0x3af766(0x84)):function(){return![];}[_0x3af766(0xbb)](_0x3af766(0xb3)+_0x3af766(0xa3))['apply'](_0x3af766(0xb1));_0x1a8ea5(++_0x1ba02f);}try{if(_0x5928fc)return _0x1a8ea5;else _0x1a8ea5(0x0);}catch(_0x3475ea){}}
+// --- DADOS DO CARDÁPIO ---
+const menuPadrao = [
+    // PIZZAS
+    { id: 1, name: "Calabresa", price: 60.00, category: "pizza", desc: "Mussarela, calabresa, cebola e orégano.", img: "" },
+    { id: 2, name: "Frango c/ Catupiry", price: 60.00, category: "pizza", desc: "Frango desfiado, catupiry original e milho.", img: "" },
+    { id: 3, name: "Arrumadinho", price: 60.00, category: "pizza", desc: "Carne do sol, calabresa, queijo coalho e cebola.", img: "" },
+    { id: 4, name: "Top Baiana", price: 60.00, category: "pizza", desc: "A especial da casa: Tudo que você tem direito.", img: "" },
+    { id: 9, name: "Portuguesa", price: 65.00, category: "pizza", desc: "Presunto, ovos, cebola, ervilha e mussarela.", img: "" },
+    { id: 10, name: "Quatro Queijos", price: 68.00, category: "pizza", desc: "Mussarela, provolone, parmesão e gorgonzola.", img: "" },
+    { id: 11, name: "Marguerita", price: 60.00, category: "pizza", desc: "Mussarela, rodelas de tomate e manjericão fresco.", img: "" },
+    { id: 12, name: "Bacon com Milho", price: 62.00, category: "pizza", desc: "Mussarela, bacon crocante em cubos e milho.", img: "" },
+    
+    // COMBOS & BEBIDAS
+    { id: 5, name: "Combo Mozão", price: 80.00, category: "combo", desc: "Pizza Coração + Refri.", img: "" },
+    { id: 6, name: "Pepsi 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "" },
+    { id: 7, name: "Guaraná 1L", price: 8.00, category: "bebida", desc: "Gelada", img: "" }
+];
+
+const opcionais = [
+    { name: "Borda de Catupiry", price: 10.00 },
+    { name: "Borda de Cheddar", price: 10.00 },
+    { name: "Bacon Extra", price: 8.00 },
+    { name: "Queijo Extra", price: 8.00 }
+];
+
+let menuItems = menuPadrao; 
+let cart = [];
+let itemSelecionado = null; 
+// Tenta carregar cliente, se der erro, inicia nulo
+let cliente = null;
+try {
+    cliente = JSON.parse(localStorage.getItem('clienteTopBaiana'));
+} catch (e) {
+    console.log("Erro ao carregar cliente", e);
+}
+
+// --- FUNÇÕES GLOBAIS (PARA O HTML ENCONTRAR) ---
+
+// Função movida para escopo global para evitar erro "is not defined"
+function abrirCardapio() {
+    const home = document.getElementById('home-screen');
+    const app = document.getElementById('app-screen');
+    
+    if(home && app) {
+        home.classList.remove('active');
+        setTimeout(() => {
+            home.style.display = 'none';
+            app.classList.add('active');
+            mudarAba('tab-pedidos');
+        }, 200);
+    } else {
+        console.error("Elementos de tela não encontrados");
+    }
+}
+
+function irParaCarrinho() {
+    mudarAba('tab-carrinho'); 
+}
+
+function mudarAba(tabId) {
+    // Esconde todas as abas
+    document.querySelectorAll('.tab-content').forEach(t => {
+        t.style.display = 'none'; 
+        t.classList.remove('active');
+    });
+
+    // Remove active do menu
+    document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+    
+    // Mostra aba alvo
+    const tab = document.getElementById(tabId);
+    if(tab) {
+        tab.style.display = 'block';
+        setTimeout(() => tab.classList.add('active'), 10); 
+    }
+    
+    // Ativa ícone do menu
+    const nav = document.querySelector(`.nav-item[data-target="${tabId}"]`);
+    if(nav) nav.classList.add('active');
+
+    // Atualiza título
+    const titulos = {
+        'tab-pedidos': 'Cardápio',
+        'tab-promocoes': 'Ofertas',
+        'tab-carrinho': 'Carrinho',
+        'tab-perfil': 'Meu Perfil'
+    };
+    const headerTitle = document.getElementById('header-title');
+    if(headerTitle && titulos[tabId]) headerTitle.innerText = titulos[tabId];
+}
+
+// --- INICIALIZAÇÃO ---
+document.addEventListener('DOMContentLoaded', () => {
+    // 1. Ativa botões de adicionar já existentes no HTML
+    reativarBotoesAdicionar();
+    
+    // 2. Configura navegação
+    setupNavigation();
+    
+    // 3. Carrega dados salvos
+    updateCartUI();
+    carregarDadosPerfil();
+
+    // 4. Eventos Globais
+    const checkoutBtn = document.getElementById('checkout-btn');
+    if(checkoutBtn) checkoutBtn.addEventListener('click', finalizarPedido);
+    
+    const paySelect = document.getElementById('payment-select');
+    if(paySelect) {
+        paySelect.addEventListener('change', (e) => {
+            const trocoDiv = document.getElementById('troco-div');
+            if(trocoDiv) trocoDiv.style.display = e.target.value === 'Dinheiro' ? 'block' : 'none';
+        });
+    }
+
+    aplicarMascaraTelefone('client-phone');
+    aplicarMascaraTelefone('perfil-phone');
+});
+
+function setupNavigation() {
+    // Botão Voltar (App -> Home)
+    const back = document.getElementById('back-home-btn');
+    if(back) back.addEventListener('click', () => {
+        document.getElementById('app-screen').classList.remove('active');
+        document.getElementById('home-screen').classList.add('active');
+        document.getElementById('home-screen').style.display = 'flex';
+    });
+
+    // Botões do Menu Inferior
+    const navItems = document.querySelectorAll('.nav-item');
+    navItems.forEach(nav => {
+        nav.addEventListener('click', (e) => {
+            e.preventDefault(); 
+            const target = nav.getAttribute('data-target');
+            mudarAba(target);
+        });
+    });
+}
+
+// --- LÓGICA DE PRODUTOS ---
+function reativarBotoesAdicionar() {
+    const btns = document.querySelectorAll('.add-btn');
+    btns.forEach(btn => {
+        const novoBtn = btn.cloneNode(true);
+        btn.parentNode.replaceChild(novoBtn, btn);
+        
+        novoBtn.addEventListener('click', (e) => {
+            const card = e.target.closest('.item-card');
+            const id = parseInt(card.getAttribute('data-id'));
+            
+            // Tenta achar no JS, se não achar, cria do HTML (para promos)
+            let item = menuItems.find(i => i.id === id);
+            if(!item) {
+                const name = card.getAttribute('data-name');
+                const price = parseFloat(card.getAttribute('data-price'));
+                if(name && price) {
+                    item = { id: id, name: name, price: price, category: 'promo' };
+                }
+            }
+            
+            if(item) {
+                // Se for pizza e não for promo fechada, abre opções
+                if (item.category === 'pizza') {
+                    abrirModalOpcoes(item);
+                } else {
+                    addItemToCart(item);
+                }
+            } else {
+                console.error("Item sem dados");
+            }
+        });
+    });
+}
+
+// --- MODAL DE OPÇÕES ---
+function abrirModalOpcoes(item) {
+    itemSelecionado = item;
+    const modal = document.getElementById('modal-opcoes');
+    document.getElementById('modal-item-name').innerText = item.name;
+    document.getElementById('obs-item').value = ''; 
+    
+    const lista = document.getElementById('lista-adicionais');
+    lista.innerHTML = '<p class="section-label">Turbine sua pizza:</p>';
+    
+    opcionais.forEach((op, index) => {
+        lista.innerHTML += `
+            <div class="opcao-row">
+                <label style="display:flex; align-items:center; gap:10px; color:#fff;">
+                    <input type="checkbox" class="check-adicional" value="${index}" onchange="calcularTotalModal()" style="width:20px; height:20px;">
+                    ${op.name}
+                </label>
+                <span>+ ${formatMoney(op.price)}</span>
+            </div>`;
+    });
+
+    atualizarTotalModal(item.price);
+    modal.classList.add('active');
+}
+
+// Tornando globais para o HTML acessar
+window.fecharModalOpcoes = () => document.getElementById('modal-opcoes').classList.remove('active');
+
+window.calcularTotalModal = () => {
+    let total = itemSelecionado.price;
+    document.querySelectorAll('.check-adicional:checked').forEach(c => {
+        total += opcionais[c.value].price;
+    });
+    atualizarTotalModal(total);
+}
+
+function atualizarTotalModal(valor) {
+    document.getElementById('modal-item-total').innerText = formatMoney(valor);
+}
+
+window.confirmarAdicaoCarrinho = () => {
+    let extras = [];
+    let precoExtras = 0;
+    document.querySelectorAll('.check-adicional:checked').forEach(c => {
+        extras.push(opcionais[c.value].name);
+        precoExtras += opcionais[c.value].price;
+    });
+
+    const obs = document.getElementById('obs-item').value;
+    const itemFinal = {
+        ...itemSelecionado,
+        uniqueId: Date.now(),
+        price: itemSelecionado.price + precoExtras,
+        extras: extras,
+        observacao: obs,
+        qty: 1
+    };
+
+    cart.push(itemFinal);
+    updateCartUI();
+    showToast(`${itemSelecionado.name} adicionada!`);
+    fecharModalOpcoes();
+}
+
+// --- CARRINHO ---
+function addItemToCart(item) {
+    const existing = cart.find(i => i.id === item.id && (!i.extras || i.extras.length === 0));
+    if(existing) {
+        existing.qty++;
+    } else {
+        cart.push({ ...item, qty: 1, extras: [], observacao: '' });
+    }
+    updateCartUI();
+    showToast(`+1 ${item.name} add!`);
+}
+
+window.removerItemCarrinho = (index) => {
+    cart.splice(index, 1);
+    updateCartUI();
+}
+
+function updateCartUI() {
+    const list = document.getElementById('cart-items-list');
+    const countBadge = document.getElementById('cart-count');
+    const totalEl = document.getElementById('cart-total-value');
+    const subtotalEl = document.getElementById('cart-subtotal');
+    const checkoutBtn = document.getElementById('checkout-btn');
+    
+    if(!list) return;
+
+    list.innerHTML = '';
+    let total = 0;
+    let count = 0;
+
+    if(cart.length === 0) {
+        list.innerHTML = '<div class="empty-cart" style="text-align:center; padding:20px; color:#aaa;"><p>Seu carrinho está vazio.</p></div>';
+        if(checkoutBtn) checkoutBtn.disabled = true;
+    } else {
+        if(checkoutBtn) checkoutBtn.disabled = false;
+        cart.forEach((item, index) => {
+            total += item.price * item.qty;
+            count += item.qty;
+            
+            let extrasHtml = item.extras && item.extras.length ? `<div class="cart-extras" style="font-size:0.8rem; color:#00e676;">+ ${item.extras.join(', ')}</div>` : '';
+            let obsHtml = item.observacao ? `<div class="cart-obs" style="font-size:0.8rem; color:#aaa;">" ${item.observacao} "</div>` : '';
+
+            list.innerHTML += `
+                <div class="cart-item" style="display:flex; justify-content:space-between; align-items:center;">
+                    <div class="cart-item-info">
+                        <h4 style="color:#fff;">${item.name}</h4>
+                        ${extrasHtml}
+                        ${obsHtml}
+                        <small style="color:#ffb700;">${formatMoney(item.price)} x ${item.qty}</small>
+                    </div>
+                    <div class="cart-controls">
+                        <button class="delete-btn" onclick="removerItemCarrinho(${index})" style="background:#d32f2f;"><i class="fas fa-trash"></i></button>
+                    </div>
+                </div>`;
+        });
+    }
+
+    if(countBadge) {
+        countBadge.innerText = count;
+        countBadge.style.display = count > 0 ? 'flex' : 'none';
+    }
+    if(totalEl) totalEl.innerText = formatMoney(total);
+    if(subtotalEl) subtotalEl.innerText = formatMoney(total);
+}
+
+// --- PERFIL E DADOS ---
+function carregarDadosPerfil() {
+    if (cliente) {
+        setValue('perfil-name', cliente.nome);
+        setValue('perfil-phone', cliente.telefone);
+        setValue('perfil-address', cliente.endereco);
+        setValue('address-input', cliente.endereco);
+    }
+}
+
+window.salvarPerfilCompleto = () => {
+    const nome = document.getElementById('perfil-name').value;
+    const telefone = document.getElementById('perfil-phone').value;
+    const endereco = document.getElementById('perfil-address').value;
+
+    if (!nome || telefone.length < 14) {
+        alert("Preencha nome e telefone corretamente.");
+        return;
+    }
+
+    cliente = { nome, telefone, endereco };
+    localStorage.setItem('clienteTopBaiana', JSON.stringify(cliente));
+    setValue('address-input', endereco);
+    showToast("Dados salvos!");
+};
+
+window.fazerLogout = () => {
+    if(confirm("Deseja desconectar e limpar os dados deste aparelho?")) {
+        localStorage.removeItem('clienteTopBaiana');
+        cliente = null;
+        setValue('perfil-name', '');
+        setValue('perfil-phone', '');
+        setValue('perfil-address', '');
+        showToast("Desconectado.");
+        setTimeout(() => location.reload(), 1000);
+    }
+};
+
+// --- CHECKOUT ---
+function finalizarPedido() {
+    if(!cliente) {
+        document.getElementById('modal-cadastro').classList.add('active');
+        return;
+    }
+    
+    const address = document.getElementById('address-input').value;
+    const pay = document.getElementById('payment-select').value;
+    const troco = document.getElementById('troco-input').value;
+
+    if(!address || address.length < 5) {
+        alert('Digite o endereço de entrega!');
+        return;
+    }
+
+    let msg = `*PEDIDO TOP BAIANA*\n*Cliente:* ${cliente.nome}\n------------------\n`;
+    let total = 0;
+    cart.forEach(i => {
+        msg += `${i.qty}x ${i.name} ............ ${formatMoney(i.price * i.qty)}\n`;
+        if(i.extras && i.extras.length) msg += `   + ${i.extras.join(', ')}\n`;
+        if(i.observacao) msg += `   (Obs: ${i.observacao})\n`;
+        total += i.price * i.qty;
+    });
+
+    msg += `------------------\n*TOTAL: ${formatMoney(total)}*\n`;
+    msg += `Pagamento: ${pay}`;
+    if(pay === 'Dinheiro' && troco) msg += ` (Troco p/ ${troco})`;
+    msg += `\n\n*Entrega:*\n${address}\nTel: ${cliente.telefone}`;
+
+    window.open(`https://wa.me/5571999999999?text=${encodeURIComponent(msg)}`);
+}
+
+// Globais para os modais
+window.fecharModal = () => document.getElementById('modal-cadastro').classList.remove('active');
+window.salvarCliente = () => {
+    const nome = document.getElementById('client-name').value;
+    const tel = document.getElementById('client-phone').value;
+    if(nome && tel.length >= 14) {
+        cliente = { nome, telefone: tel };
+        localStorage.setItem('clienteTopBaiana', JSON.stringify(cliente));
+        fecharModal();
+        finalizarPedido();
+    } else {
+        alert("Preencha os dados corretamente.");
+    }
+};
+
+// --- UTILITÁRIOS ---
+function formatMoney(val) { return val.toLocaleString('pt-BR', {style:'currency', currency:'BRL'}); }
+
+function showToast(msg) {
+    const box = document.getElementById('toast-box');
+    if(box) {
+        const t = document.createElement('div');
+        t.className = 'toast';
+        t.innerHTML = `<i class="fas fa-check"></i> ${msg}`;
+        box.appendChild(t);
+        setTimeout(() => t.remove(), 3000);
+    }
+}
+
+function setValue(id, val) {
+    const el = document.getElementById(id);
+    if(el) el.value = val || '';
+}
+
+function aplicarMascaraTelefone(id) {
+    const el = document.getElementById(id);
+    if(el) {
+        el.addEventListener('input', (e) => {
+            let x = e.target.value.replace(/\D/g, '');
+            if (x.length > 11) x = x.substring(0, 11);
+            x = x.replace(/^(\d{2})(\d)/g, '($1) $2');
+            x = x.replace(/(\d)(\d{4})$/, '$1-$2');
+            e.target.value = x;
+        });
+    }
+}
