@@ -122,9 +122,23 @@ body::after {
     display: flex; flex-direction: column; align-items: center; text-align: center; 
 }
 
-.logo-img { 
-    font-size: 2rem; color: var(--primary); font-weight: 900; margin-bottom: 15px; 
-    text-shadow: 0 0 15px var(--primary-glow);
+/* --- ESTILO DA NOVA LOGO --- */
+.logo-main {
+    width: 100%;             /* Garante que cabe na tela */
+    max-width: 280px;        /* Tamanho máximo para não ficar enorme no PC */
+    height: auto;            /* Mantém a proporção */
+    margin-bottom: 20px;
+    
+    /* Efeito de brilho compatível com imagens transparentes */
+    filter: drop-shadow(0 0 15px rgba(255, 183, 0, 0.5));
+    
+    /* Animação suave (opcional, igual às bolhas do fundo) */
+    animation: floatLogo 4s ease-in-out infinite alternate;
+}
+
+@keyframes floatLogo {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
 }
 .logo-img i { font-size: 4rem; color: var(--secondary); margin-bottom: 10px; drop-shadow: 0 0 10px var(--secondary-glow); }
 
