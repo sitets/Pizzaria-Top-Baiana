@@ -2,8 +2,11 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <!-- Meta Tag Otimizada para Mobile (Sem Zoom, Fullscreen real) -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <meta name="theme-color" content="#1a0505">
+    <meta name="theme-color" content="#0f0505">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Pizzaria Top Baiana</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -12,6 +15,7 @@
 
     <div id="toast-box"></div>
 
+    <!-- TELA INICIAL (HOME) -->
     <section id="home-screen" class="screen active">
         <div class="overlay"></div>
         <div class="content-home">
@@ -42,9 +46,9 @@
                 FAZER PEDIDO <i class="fas fa-chevron-right"></i>
             </button>
         </div>
-        <div class="footer-credits"></div>
     </section>
 
+    <!-- TELA DO APP (CARDÁPIO/CARRINHO/PERFIL) -->
     <section id="app-screen" class="screen">
         
         <header class="app-header">
@@ -60,15 +64,18 @@
 
         <div class="app-content">
 
+            <!-- ABA 1: PEDIDOS (CARDÁPIO) -->
             <div id="tab-pedidos" class="tab-content active">
                 
                 <div class="category-section">
                     <h3 class="cat-title"><i class="fas fa-pizza-slice"></i> Pizzas Tradicionais</h3>
                     <div class="menu-grid" id="grid-pizzas">
+                        <!-- Itens renderizados via HTML ou JS -->
                         
                         <div class="item-card" data-id="1" data-name="Pizza Calabresa" data-price="60.00">
                             <div class="card-img">
-                                <img src="calabresa.jpg" alt="Pizza Calabresa">
+                                <!-- Placeholder ou imagem real -->
+                                <i class="fas fa-pizza-slice"></i>
                             </div>
                             <div class="card-details">
                                 <h4>Calabresa</h4>
@@ -81,9 +88,7 @@
                         </div>
 
                         <div class="item-card" data-id="2" data-name="Frango c/ Catupiry" data-price="60.00">
-                            <div class="card-img">
-                                <img src="frango.jpg" alt="Frango com Catupiry">
-                            </div>
+                            <div class="card-img"><i class="fas fa-drumstick-bite"></i></div>
                             <div class="card-details">
                                 <h4>Frango c/ Catupiry</h4>
                                 <p>Frango desfiado, catupiry original e milho.</p>
@@ -95,9 +100,7 @@
                         </div>
 
                         <div class="item-card" data-id="3" data-name="Pizza Arrumadinho" data-price="60.00">
-                            <div class="card-img">
-                                <img src="arrumadinho.jpg" alt="Pizza Arrumadinho">
-                            </div>
+                            <div class="card-img"><i class="fas fa-sun"></i></div>
                             <div class="card-details">
                                 <h4>Arrumadinho</h4>
                                 <p>Carne do sol, calabresa, queijo coalho e cebola.</p>
@@ -108,7 +111,7 @@
                             </div>
                         </div>
 
-                         <div class="item-card" data-id="4" data-name="Pizza Top Baiana" data-price="60.00">
+                        <div class="item-card" data-id="4" data-name="Pizza Top Baiana" data-price="60.00">
                             <div class="card-img"><i class="fas fa-star"></i></div>
                             <div class="card-details">
                                 <h4>Top Baiana</h4>
@@ -120,7 +123,7 @@
                             </div>
                         </div>
 
-                        <div class="item-card" data-id="9" data-name="Portuguesa" data-price="65.00">
+                         <div class="item-card" data-id="9" data-name="Portuguesa" data-price="65.00">
                             <div class="card-img"><i class="fas fa-egg"></i></div>
                             <div class="card-details">
                                 <h4>Portuguesa</h4>
@@ -168,35 +171,6 @@
                             </div>
                         </div>
 
-                        <div class="item-card" data-id="77" data-name="Teste" data-price="100.00">
-                            <div class="card-img">
-                                <i class="fas fa-pizza-slice"></i> 
-                            </div>
-                            <div class="card-details">
-                                <h4>Teste</h4> <p>INGREDIENTES_AQUI</p>
-                                <div class="card-footer">
-                                    <span class="price">R$ 100,00</span>
-                                    <button class="add-btn">Adicionar</button>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="category-section">
-                    <h3 class="cat-title"><i class="fas fa-fire"></i> Combos</h3>
-                    <div class="menu-grid">
-                        <div class="item-card" data-id="5" data-name="Combo Mozão" data-price="80.00">
-                            <div class="card-details">
-                                <h4>Combo Mozão</h4>
-                                <p>Pizza Coração + Refri. Perfeito para casal.</p>
-                                <div class="card-footer">
-                                    <span class="price">R$ 80,00</span>
-                                    <button class="add-btn">Adicionar</button>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
@@ -204,7 +178,8 @@
                     <h3 class="cat-title"><i class="fas fa-wine-bottle"></i> Bebidas</h3>
                     <div class="menu-grid compact">
                         <div class="item-card mini" data-id="6" data-name="Pepsi 1L" data-price="8.00">
-                            <div class="card-details row">
+                            <div class="card-img"><i class="fas fa-wine-bottle"></i></div>
+                            <div class="card-details">
                                 <h4>Pepsi 1L</h4>
                                 <div class="card-footer">
                                     <span class="price">R$ 8,00</span>
@@ -213,7 +188,8 @@
                             </div>
                         </div>
                         <div class="item-card mini" data-id="7" data-name="Guaraná 1L" data-price="8.00">
-                            <div class="card-details row">
+                            <div class="card-img"><i class="fas fa-wine-bottle"></i></div>
+                            <div class="card-details">
                                 <h4>Guaraná 1L</h4>
                                 <div class="card-footer">
                                     <span class="price">R$ 8,00</span>
@@ -226,6 +202,7 @@
 
             </div>
 
+            <!-- ABA 2: PROMOÇÕES -->
             <div id="tab-promocoes" class="tab-content">
                 <div class="promo-banner">
                     <div class="promo-text">
@@ -236,8 +213,7 @@
                 </div>
                 
                 <div class="menu-grid">
-                    
-                    <div class="item-card promo" data-id="99">
+                    <div class="item-card promo" data-id="99" data-name="PROMO: 2 Calabresas" data-price="100.00">
                         <span class="tag-discount">-20% OFF</span>
                         <div class="card-details">
                             <h4>Dupla Calabresa Gigante</h4>
@@ -252,11 +228,11 @@
                         </div>
                     </div>
 
-                    <div class="item-card promo" data-id="30" style="border-color: #ffb700;">
+                    <div class="item-card promo" data-id="30" data-name="PROMO: Combo Família" data-price="85.00">
                         <span class="tag-discount" style="background: #ffb700; color: black;">POPULAR</span>
                         <div class="card-details">
                             <h4>Combo Família</h4>
-                            <p>1 Pizza Gigante (Sabores Tradicionais) + 1 Refrigerante 2L.</p>
+                            <p>1 Pizza G + 1 Refri 2L.</p>
                             <div class="card-footer">
                                 <div class="price-group">
                                     <span class="old-price">R$ 95,00</span>
@@ -267,11 +243,11 @@
                         </div>
                     </div>
 
-                    <div class="item-card promo" data-id="31">
+                    <div class="item-card promo" data-id="31" data-name="PROMO: Trio Galera" data-price="160.00">
                         <span class="tag-discount" style="background: #00d2ff;">FESTA</span>
                         <div class="card-details">
                             <h4>Trio da Galera</h4>
-                            <p>3 Pizzas Grandes Tradicionais. A fome acabou!</p>
+                            <p>3 Pizzas Grandes.</p>
                             <div class="card-footer">
                                 <div class="price-group">
                                     <span class="old-price">R$ 180,00</span>
@@ -281,29 +257,13 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="item-card promo" data-id="32" style="background: linear-gradient(90deg, #2a0e0e 0%, #3a1a1a 100%);">
-                        <span class="tag-discount">SOBREMESA</span>
-                        <div class="card-details">
-                            <h4>Jantar Completo</h4>
-                            <p>1 Pizza Salgada Grande + 1 Broto Doce (Chocolate ou Banana).</p>
-                            <div class="card-footer">
-                                <div class="price-group">
-                                    <span class="old-price">R$ 90,00</span>
-                                    <span class="price">R$ 80,00</span>
-                                </div>
-                                <button class="add-btn">Eu Quero!</button>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
 
+            <!-- ABA 3: CARRINHO -->
             <div id="tab-carrinho" class="tab-content">
                 <div class="cart-panel">
-                    <div id="cart-items-list" class="cart-list">
-                        </div>
+                    <div id="cart-items-list" class="cart-list"></div>
 
                     <div class="cart-summary">
                         <div class="summary-row">
@@ -328,8 +288,7 @@
 
                     <div class="form-group" id="troco-div" style="display:none;">
                         <label>Troco para quanto?</label>
-                        <input type="number" id="troco-input" placeholder="Ex: 50" 
-       oninput="if(this.value.length > 3) this.value = this.value.slice(0, 3);">
+                        <input type="number" id="troco-input" placeholder="Ex: 50" oninput="if(this.value.length > 3) this.value = this.value.slice(0, 3);">
                     </div>
 
                     <div class="form-group">
@@ -343,28 +302,73 @@
                     </button>
                 </div>
             </div>
-        </div>
 
+            <!-- ABA 4: PERFIL -->
+            <div id="tab-perfil" class="tab-content">
+                <div class="cart-panel profile-wrapper">
+                    
+                    <div class="profile-header">
+                        <i class="fas fa-user-astronaut"></i>
+                        <h3>Cartão de Membro</h3>
+                        <p>ID: VIP-CLIENT</p>
+                    </div>
+
+                    <div class="desktop-row">
+                        <div class="form-group">
+                            <label>NOME CADASTRADO</label>
+                            <input type="text" id="perfil-name" placeholder="Seu nome">
+                        </div>
+
+                        <div class="form-group">
+                            <label>TELEFONE (WHATSAPP)</label>
+                            <input type="tel" id="perfil-phone" placeholder="(71) 99999-9999" maxlength="15">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>ENDEREÇO PADRÃO</label>
+                        <textarea id="perfil-address" rows="3" placeholder="Rua, Número, Bairro e Ponto de Referência..."></textarea>
+                    </div>
+
+                    <button class="save-user-btn" onclick="salvarPerfilCompleto()">
+                        <i class="fas fa-save"></i> Salvar Dados
+                    </button>
+
+                    <button class="logout-btn" onclick="fazerLogout()">
+                        <i class="fas fa-power-off"></i> Desconectar
+                    </button>
+                </div>
+            </div>
+
+        </div> 
+        
+        <!-- MENU INFERIOR (NAVIGATION) -->
         <nav class="bottom-nav">
-            <div class="nav-item" data-target="tab-carrinho">
-                <div class="icon-box"><i class="fas fa-shopping-cart"></i></div>
-                <span>Carrinho</span>
-            </div>
-            <div class="nav-item" data-target="tab-promocoes">
-                <div class="icon-box"><i class="fas fa-tags"></i></div>
-                <span>Promo</span>
-            </div>
             <div class="nav-item active" data-target="tab-pedidos">
                 <div class="icon-box"><i class="fas fa-book-open"></i></div>
                 <span>Cardápio</span>
             </div>
+            <div class="nav-item" data-target="tab-promocoes">
+                <div class="icon-box"><i class="fas fa-bolt"></i></div>
+                <span>Ofertas</span>
+            </div>
+            <div class="nav-item" data-target="tab-carrinho">
+                <div class="icon-box"><i class="fas fa-shopping-cart"></i></div>
+                <span>Carrinho</span>
+            </div>
+            <div class="nav-item" data-target="tab-perfil">
+                <div class="icon-box"><i class="fas fa-user-circle"></i></div>
+                <span>Perfil</span>
+            </div>
         </nav>
 
     </section>
-<div id="modal-cadastro" class="modal-overlay">
+
+    <!-- MODAL DE CADASTRO (APENAS UM AQUI NO FINAL) -->
+    <div id="modal-cadastro" class="modal-overlay">
         <div class="modal-box">
             <div class="modal-header">
-                <h3><i class="fas fa-user-circle"></i> Identificação</h3>
+                <h3><i class="fas fa-user-lock"></i> Identificação</h3>
                 <button class="close-modal" onclick="fecharModal()">×</button>
             </div>
             <div class="modal-body">
@@ -386,36 +390,31 @@
             </div>
         </div>
     </div>
-<div id="modal-opcoes" class="modal-overlay">
-    <div class="modal-box">
-        <div class="modal-header">
-            <h3 id="modal-item-name">Personalizar</h3>
-            <button class="close-modal" onclick="fecharModalOpcoes()">×</button>
-        </div>
-        <div class="modal-body">
-            
-            <div id="lista-adicionais" class="adicionais-container">
+
+    <!-- MODAL DE OPÇÕES DE PIZZA -->
+    <div id="modal-opcoes" class="modal-overlay">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3 id="modal-item-name">Personalizar</h3>
+                <button class="close-modal" onclick="fecharModalOpcoes()">×</button>
+            </div>
+            <div class="modal-body">
+                <div id="lista-adicionais" class="adicionais-container"></div>
+                <div class="form-group">
+                    <label><i class="fas fa-comment-dots"></i> Observações</label>
+                    <textarea id="obs-item" placeholder="Ex: Tirar cebola, caprichar no orégano..."></textarea>
                 </div>
-
-            <div class="form-group">
-                <label><i class="fas fa-comment-dots"></i> Observações</label>
-                <textarea id="obs-item" placeholder="Ex: Tirar cebola, caprichar no orégano..."></textarea>
+                <div class="modal-footer-price">
+                    <span>Total do Item:</span>
+                    <span id="modal-item-total" class="price-big">R$ 0,00</span>
+                </div>
+                <button class="save-user-btn" onclick="confirmarAdicaoCarrinho()">
+                    Adicionar ao Pedido
+                </button>
             </div>
-
-            <div class="modal-footer-price">
-                <span>Total do Item:</span>
-                <span id="modal-item-total" class="price-big">R$ 0,00</span>
-            </div>
-
-            <button class="save-user-btn" onclick="confirmarAdicaoCarrinho()">
-                Adicionar ao Pedido
-            </button>
         </div>
     </div>
-</div>
 
     <script src="script.js"></script>
 </body>
 </html>
-
-
