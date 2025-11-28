@@ -2,11 +2,14 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <!-- Meta Tag Otimizada para Mobile (Sem Zoom, Fullscreen real) -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <meta name="theme-color" content="#0f0505">
+    
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <meta name="mobile-web-app-capable" content="yes">
+
     <title>Pizzaria Top Baiana</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -15,13 +18,13 @@
 
     <div id="toast-box"></div>
 
-    <!-- TELA INICIAL (HOME) -->
     <section id="home-screen" class="screen active">
         <div class="overlay"></div>
         <div class="content-home">
+            
             <div class="logo-area">
-               <img src="top baiana sem fundo.png" alt="Logo Top Baiana" class="logo-main">
-
+                <img src="top baiana sem fundo.png" alt="Logo Top Baiana" class="logo-main">
+            </div>
 
             <h1 class="main-title">A MELHOR<br><span class="highlight">DA REGIÃO</span></h1>
 
@@ -45,7 +48,6 @@
         </div>
     </section>
 
-    <!-- TELA DO APP (CARDÁPIO/CARRINHO/PERFIL) -->
     <section id="app-screen" class="screen">
         
         <header class="app-header">
@@ -61,19 +63,13 @@
 
         <div class="app-content">
 
-            <!-- ABA 1: PEDIDOS (CARDÁPIO) -->
             <div id="tab-pedidos" class="tab-content active">
-                
                 <div class="category-section">
                     <h3 class="cat-title"><i class="fas fa-pizza-slice"></i> Pizzas Tradicionais</h3>
                     <div class="menu-grid" id="grid-pizzas">
-                        <!-- Itens renderizados via HTML ou JS -->
                         
                         <div class="item-card" data-id="1" data-name="Pizza Calabresa" data-price="60.00">
-                            <div class="card-img">
-                                <!-- Placeholder ou imagem real -->
-                                <i class="fas fa-pizza-slice"></i>
-                            </div>
+                            <div class="card-img"><i class="fas fa-pizza-slice"></i></div>
                             <div class="card-details">
                                 <h4>Calabresa</h4>
                                 <p>Mussarela, calabresa, cebola, orégano.</p>
@@ -167,7 +163,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
 
@@ -196,10 +191,8 @@
                         </div>
                     </div>
                 </div>
-
             </div>
 
-            <!-- ABA 2: PROMOÇÕES -->
             <div id="tab-promocoes" class="tab-content">
                 <div class="promo-banner">
                     <div class="promo-text">
@@ -239,25 +232,9 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="item-card promo" data-id="31" data-name="PROMO: Trio Galera" data-price="160.00">
-                        <span class="tag-discount" style="background: #00d2ff;">FESTA</span>
-                        <div class="card-details">
-                            <h4>Trio da Galera</h4>
-                            <p>3 Pizzas Grandes.</p>
-                            <div class="card-footer">
-                                <div class="price-group">
-                                    <span class="old-price">R$ 180,00</span>
-                                    <span class="price">R$ 160,00</span>
-                                </div>
-                                <button class="add-btn">Eu Quero!</button>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
 
-            <!-- ABA 3: CARRINHO -->
             <div id="tab-carrinho" class="tab-content">
                 <div class="cart-panel">
                     <div id="cart-items-list" class="cart-list"></div>
@@ -283,6 +260,24 @@
                         </select>
                     </div>
 
+                    <div id="pix-area" style="display: none; text-align: center; margin-top: 15px; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
+                        <p style="color: #ffb700; margin-bottom: 10px; font-weight: bold;">
+                            <i class="fas fa-qrcode"></i> Escaneie ou Copie:
+                        </p>
+                        
+                        <img id="qrcode-img" src="qrcode.png" alt="QR Code Pix" style="width: 150px; height: 150px; border-radius: 10px; margin-bottom: 15px; border: 4px solid #fff;">
+                        
+                        <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+                            <input type="text" value="71992010947" id="pix-key" readonly 
+                                   style="color: #fff; background: rgba(0,0,0,0.3); border: 1px solid #555; padding: 10px; border-radius: 8px; text-align: center; width: 100%; max-width: 160px; font-size: 0.9rem;">
+                            
+                            <button onclick="copiarChavePix()" class="add-btn" style="border-radius: 8px; padding: 10px 15px; cursor: pointer;">
+                                <i class="fas fa-copy"></i>
+                            </button>
+                        </div>
+                        <p style="font-size: 0.75rem; color: #aaa; margin-top: 5px;">*Envie o comprovante no WhatsApp</p>
+                    </div>
+
                     <div class="form-group" id="troco-div" style="display:none;">
                         <label>Troco para quanto?</label>
                         <input type="number" id="troco-input" placeholder="Ex: 50" oninput="if(this.value.length > 3) this.value = this.value.slice(0, 3);">
@@ -300,7 +295,6 @@
                 </div>
             </div>
 
-            <!-- ABA 4: PERFIL -->
             <div id="tab-perfil" class="tab-content">
                 <div class="cart-panel profile-wrapper">
                     
@@ -339,7 +333,6 @@
 
         </div> 
         
-        <!-- MENU INFERIOR (NAVIGATION) -->
         <nav class="bottom-nav">
             <div class="nav-item active" data-target="tab-pedidos">
                 <div class="icon-box"><i class="fas fa-book-open"></i></div>
@@ -361,7 +354,6 @@
 
     </section>
 
-    <!-- MODAL DE CADASTRO (APENAS UM AQUI NO FINAL) -->
     <div id="modal-cadastro" class="modal-overlay">
         <div class="modal-box">
             <div class="modal-header">
@@ -370,17 +362,14 @@
             </div>
             <div class="modal-body">
                 <p>Precisamos saber quem você é para entregar seu pedido!</p>
-                
                 <div class="form-group">
                     <label>Seu Nome Completo</label>
                     <input type="text" id="client-name" placeholder="Ex: João Silva">
                 </div>
-
                 <div class="form-group">
                     <label>Seu WhatsApp / Telefone</label>
                     <input type="tel" id="client-phone" placeholder="Ex: 71 99999-9999">
                 </div>
-
                 <button class="save-user-btn" onclick="salvarCliente()">
                     Salvar e Continuar
                 </button>
@@ -388,7 +377,6 @@
         </div>
     </div>
 
-    <!-- MODAL DE OPÇÕES DE PIZZA -->
     <div id="modal-opcoes" class="modal-overlay">
         <div class="modal-box">
             <div class="modal-header">
